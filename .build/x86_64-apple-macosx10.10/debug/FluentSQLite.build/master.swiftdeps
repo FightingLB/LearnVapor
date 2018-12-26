@@ -1,6 +1,6 @@
-version: "Apple Swift version 4.2 (swiftlang-1000.11.37.1 clang-1000.11.45.1)"
-options: "3c370dc3cc0d7af235c4eaf133764094"
-build_time: [1539405418, 893622000]
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "b66090ae83558f865e7823c1d9943c41"
+build_time: [1545807300, 467046000]
 inputs:
   "/Users/lb/Documents/Project/LearnVapor/.build/checkouts/fluent-sqlite.git-2503729378264811657/Sources/FluentSQLite/Exports.swift": [1539358994, 0]
   "/Users/lb/Documents/Project/LearnVapor/.build/checkouts/fluent-sqlite.git-2503729378264811657/Sources/FluentSQLite/FluentSQLiteError.swift": [1539358994, 0]

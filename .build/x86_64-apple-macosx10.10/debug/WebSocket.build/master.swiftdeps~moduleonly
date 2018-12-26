@@ -1,6 +1,6 @@
-version: "Apple Swift version 4.2 (swiftlang-1000.11.37.1 clang-1000.11.45.1)"
-options: "041a5730b6bfa928db5b87a6ae2ea681"
-build_time: [1539405402, 667575000]
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "112e8ad2d28bd041ccec0445fd0f9a72"
+build_time: [1545807288, 554689000]
 inputs:
   "/Users/lb/Documents/Project/LearnVapor/.build/checkouts/websocket.git-7339368975077785337/Sources/WebSocket/Exports.swift": [1539358994, 0]
   "/Users/lb/Documents/Project/LearnVapor/.build/checkouts/websocket.git-7339368975077785337/Sources/WebSocket/WebSocket+Client.swift": [1539358994, 0]

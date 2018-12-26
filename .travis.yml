@@ -1,6 +1,7 @@
-osx_image: xcode10
+osx_image: xcode10.1
 language: swift
 script:
+  - swift package update
   - xcodebuild -project LearnVapor.xcodeproj -scheme Run -sdk macosx ONLY_ACTIVE_ARCH=NO clean build test
 after_success:
   - bash <(curl -s https://codecov.io/bash)

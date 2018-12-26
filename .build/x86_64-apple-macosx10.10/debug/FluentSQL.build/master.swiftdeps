@@ -1,6 +1,6 @@
-version: "Apple Swift version 4.2 (swiftlang-1000.11.37.1 clang-1000.11.45.1)"
-options: "34b398978c62a3829de07037706f571c"
-build_time: [1539405416, 19698000]
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "789898144a5210e7d347d332bd9dc495"
+build_time: [1545807297, 242847000]
 inputs:
   "/Users/lb/Documents/Project/LearnVapor/.build/checkouts/fluent.git--7619811335752932298/Sources/FluentSQL/Exports.swift": [1539359788, 0]
   "/Users/lb/Documents/Project/LearnVapor/.build/checkouts/fluent.git--7619811335752932298/Sources/FluentSQL/FluentSQLQuery.swift": [1539359788, 0]

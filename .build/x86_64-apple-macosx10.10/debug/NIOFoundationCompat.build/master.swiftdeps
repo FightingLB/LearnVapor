@@ -1,5 +1,5 @@
-version: "Apple Swift version 4.2 (swiftlang-1000.11.37.1 clang-1000.11.45.1)"
-options: "64cd4e61f4032a54ff50a1c409694305"
-build_time: [1539359012, 5035000]
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "c8e387205afd20b88aaa031028d38589"
+build_time: [1545807267, 816561000]
 inputs:
   "/Users/lb/Documents/Project/LearnVapor/.build/checkouts/swift-nio.git-8756902686293799568/Sources/NIOFoundationCompat/ByteBuffer-foundation.swift": [1539358995, 0]

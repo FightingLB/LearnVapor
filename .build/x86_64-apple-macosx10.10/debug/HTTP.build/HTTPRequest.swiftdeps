@@ -23,6 +23,7 @@ depends-top-level:
 - "IntegerLiteralType"
 - "LosslessHTTPBodyRepresentable"
 - "String"
+- !private "StringLiteralType"
 - "URL"
 - "URLRepresentable"
 - !private "UnicodeScalarType"

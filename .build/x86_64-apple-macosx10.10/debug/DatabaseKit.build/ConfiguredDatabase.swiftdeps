@@ -13,6 +13,7 @@ depends-top-level:
 - !private "Array"
 - "AssignmentPrecedence"
 - "ConfiguredDatabase"
+- "Connection"
 - "ConnectionConfig"
 - "Database"
 - "Decodable"

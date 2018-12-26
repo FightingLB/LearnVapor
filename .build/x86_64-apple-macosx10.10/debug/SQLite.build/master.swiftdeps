@@ -1,6 +1,6 @@
-version: "Apple Swift version 4.2 (swiftlang-1000.11.37.1 clang-1000.11.45.1)"
-options: "449fbb59801e6ede5d954c90ca75c905"
-build_time: [1539405416, 19778000]
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "ec62b9c3b2d59df358b2b278cc286bec"
+build_time: [1545807297, 240793000]
 inputs:
   "/Users/lb/Documents/Project/LearnVapor/.build/checkouts/sqlite.git--5430702937685936219/Sources/SQLite/Codable/SQLiteDataDecoder.swift": [1539358994, 0]
   "/Users/lb/Documents/Project/LearnVapor/.build/checkouts/sqlite.git--5430702937685936219/Sources/SQLite/Codable/SQLiteDataEncoder.swift": [1539358994, 0]

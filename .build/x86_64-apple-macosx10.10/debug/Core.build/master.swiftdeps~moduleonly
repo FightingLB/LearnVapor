@@ -1,6 +1,6 @@
-version: "Apple Swift version 4.2 (swiftlang-1000.11.37.1 clang-1000.11.45.1)"
-options: "aca152f08ed4dce4b7f83ba50b5557c1"
-build_time: [1539405388, 426167000]
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "070662b1df6448c197d80ea9345d4062"
+build_time: [1545807271, 91722000]
 inputs:
   "/Users/lb/Documents/Project/LearnVapor/.build/checkouts/core.git-8539409652594754783/Sources/Core/BasicKey.swift": [1539359788, 0]
   "/Users/lb/Documents/Project/LearnVapor/.build/checkouts/core.git-8539409652594754783/Sources/Core/CaseInsensitiveString.swift": [1539359788, 0]

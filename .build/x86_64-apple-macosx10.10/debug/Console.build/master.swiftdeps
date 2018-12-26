@@ -1,6 +1,6 @@
-version: "Apple Swift version 4.2 (swiftlang-1000.11.37.1 clang-1000.11.45.1)"
-options: "0bf2fd66edea6271524d0eb0a5b3d274"
-build_time: [1539405398, 687536000]
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "9d178ac659fa85b7cdf8aca3c5edd4e2"
+build_time: [1545807284, 601549000]
 inputs:
   "/Users/lb/Documents/Project/LearnVapor/.build/checkouts/console.git--1231705849320085599/Sources/Console/Activity/ActivityBar.swift": [1539358997, 0]
   "/Users/lb/Documents/Project/LearnVapor/.build/checkouts/console.git--1231705849320085599/Sources/Console/Activity/ActivityIndicator.swift": [1539358997, 0]

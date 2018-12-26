@@ -1,3 +1,4 @@
+51f51bb4b5f9bce64ee7017e30ff7a5c515c2b56	not-for-merge	branch '4' of https://github.com/vapor/routing
 229a7054c5e18178500e895cdd2496084e08891f	not-for-merge	branch 'Andrewangeta-patch-1' of https://github.com/vapor/routing
 f209f9ba80804053157800cce56180fcde2ac672	not-for-merge	branch 'conflicting-routing-parameters' of https://github.com/vapor/routing
 a24154d80c42257996e2f5e4fd249a4b3d834770	not-for-merge	branch 'gm' of https://github.com/vapor/routing
@@ -44,6 +45,8 @@ ec0f4e4e855da05f4fb8721ff438707f767a54a8	not-for-merge	'refs/pull/43/head' of ht
 d9189702eab2e03e8701d43473c601e546f427e6	not-for-merge	'refs/pull/46/merge' of https://github.com/vapor/routing
 d6a79345e60cfa0d6b3f402750fec2de46fe2ecc	not-for-merge	'refs/pull/47/head' of https://github.com/vapor/routing
 c2cc5816c39bc9044d476fa5ae6b5f428b395477	not-for-merge	'refs/pull/47/merge' of https://github.com/vapor/routing
+51f51bb4b5f9bce64ee7017e30ff7a5c515c2b56	not-for-merge	'refs/pull/49/head' of https://github.com/vapor/routing
+7241027791f299ca24ebfc9e5eb3918b83bacf8f	not-for-merge	'refs/pull/49/merge' of https://github.com/vapor/routing
 f9797fe1dc156e3ead94e7fc40b5488804d82118	not-for-merge	'refs/pull/5/head' of https://github.com/vapor/routing
 523307769b9c50a4a0a4ea7d60af544d063d98d8	not-for-merge	'refs/pull/6/head' of https://github.com/vapor/routing
 f87de87ffd2774ddbf6079b2532ad83690de3b79	not-for-merge	'refs/pull/7/head' of https://github.com/vapor/routing

@@ -1,6 +1,6 @@
-version: "Apple Swift version 4.2 (swiftlang-1000.11.37.1 clang-1000.11.45.1)"
-options: "04a8e3c629d5e2b6d761dbf2bc7bf0de"
-build_time: [1539405386, 687461000]
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "2d73b8a2d8acab011e098539b27a705d"
+build_time: [1545807258, 580900000]
 inputs:
   "/Users/lb/Documents/Project/LearnVapor/.build/checkouts/core.git-8539409652594754783/Sources/Debugging/Debuggable.swift": [1539359788, 0]
   "/Users/lb/Documents/Project/LearnVapor/.build/checkouts/core.git-8539409652594754783/Sources/Debugging/Demangler.swift": [1539359788, 0]

@@ -1,5 +1,5 @@
 f8f68818adc34b7d075c4597f35e2c38a5866cec	not-for-merge	branch 'feature/siemensikkema-patch-1' of https://github.com/vapor/validation
-156f8adeac3440e868da3757777884efbc6ec0cc	not-for-merge	branch 'master' of https://github.com/vapor/validation
+4de213cf319b694e4ce19e5339592601d4dd3ff6	not-for-merge	branch 'master' of https://github.com/vapor/validation
 1fd71c54998f81a2a740b334bcec66eaed49e475	not-for-merge	branch 'vapor-2' of https://github.com/vapor/validation
 f8546026405c5f4617be2b664d559200670c0e75	not-for-merge	'refs/pull/1/head' of https://github.com/vapor/validation
 341f84916d95a92dad6254e055c0d222f725a90b	not-for-merge	'refs/pull/10/head' of https://github.com/vapor/validation
@@ -23,6 +23,7 @@ f41112ee84242ac2ee17556317025c2e1b131208	not-for-merge	'refs/pull/24/head' of ht
 0e759ea810a777a7e31062eabc5ff3992f428145	not-for-merge	'refs/pull/27/head' of https://github.com/vapor/validation
 7b51a70cf27376b96a0db63cc8e1d00e8addda20	not-for-merge	'refs/pull/28/head' of https://github.com/vapor/validation
 3ebdea1fbad75683f74d3c2200b9024b8f6ced62	not-for-merge	'refs/pull/30/head' of https://github.com/vapor/validation
+870fe99ad2bde4e91f78cb2253fea9f04813d495	not-for-merge	'refs/pull/31/head' of https://github.com/vapor/validation
 745a977b306057f131fabd050a250877efce78b7	not-for-merge	'refs/pull/4/head' of https://github.com/vapor/validation
 65bb859b8765ca4d47f8982537812396e9315deb	not-for-merge	'refs/pull/5/head' of https://github.com/vapor/validation
 318772f6dd6f1ecbfe7b9e7ae483f156c14d1d93	not-for-merge	'refs/pull/6/head' of https://github.com/vapor/validation
@@ -45,3 +46,4 @@ ad56ac42e369b2b1526bf1a00c2f574b1222c912	not-for-merge	tag '2.0.0-beta.2' of htt
 aa12fbde809392ef39ddf046252c94a9fd67c420	not-for-merge	tag '2.0.0-rc.2.1' of https://github.com/vapor/validation
 1ce87fc2d18a8f15a491805825063c8db493a51e	not-for-merge	tag '2.0.0-rc.2.1.1' of https://github.com/vapor/validation
 156f8adeac3440e868da3757777884efbc6ec0cc	not-for-merge	tag '2.1.0' of https://github.com/vapor/validation
+4de213cf319b694e4ce19e5339592601d4dd3ff6	not-for-merge	tag '2.1.1' of https://github.com/vapor/validation

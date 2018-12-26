@@ -1,6 +1,6 @@
-version: "Apple Swift version 4.2 (swiftlang-1000.11.37.1 clang-1000.11.45.1)"
-options: "56ed593726796072e9a769777e721011"
-build_time: [1539405404, 866210000]
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "62b5a69ec58d1465e0bcc704a7201de9"
+build_time: [1545807290, 197673000]
 inputs:
   "/Users/lb/Documents/Project/LearnVapor/.build/checkouts/vapor.git--2773723625959063766/Sources/Vapor/Application.swift": [1539358998, 0]
   "/Users/lb/Documents/Project/LearnVapor/.build/checkouts/vapor.git--2773723625959063766/Sources/Vapor/Client/Client.swift": [1539358998, 0]

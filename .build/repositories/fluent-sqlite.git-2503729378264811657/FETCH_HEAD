@@ -1,6 +1,7 @@
 2a66326191e7dc7ded233b4ec5cce9e4a93f5d70	not-for-merge	branch 'docs' of https://github.com/vapor/fluent-sqlite
 edd287ae4c8eaa5b38a0e28afc5c897bd1e594fe	not-for-merge	branch 'lifecycle' of https://github.com/vapor/fluent-sqlite
 c32f5bda84bf4ea691d19afe183d40044f579e11	not-for-merge	branch 'master' of https://github.com/vapor/fluent-sqlite
+82571420d7840e35fa129a084b4f2a0744cf903d	not-for-merge	branch 'multiple-row-insert' of https://github.com/vapor/fluent-sqlite
 887e32aececc715449afc9a34ce394d06f9d6ae7	not-for-merge	branch 'nio' of https://github.com/vapor/fluent-sqlite
 887e32aececc715449afc9a34ce394d06f9d6ae7	not-for-merge	'refs/pull/1/head' of https://github.com/vapor/fluent-sqlite
 61c48f7d7c6b9ea331488939c5907fa891768fc0	not-for-merge	'refs/pull/11/head' of https://github.com/vapor/fluent-sqlite
@@ -20,6 +21,10 @@ a2d28dddec7bea76c472fdd9c6227b8f89c66d3b	not-for-merge	'refs/pull/18/head' of ht
 e4c9794759e4d5e9f025a3843af515366669a247	not-for-merge	'refs/pull/22/head' of https://github.com/vapor/fluent-sqlite
 82608511aefc44a82c8e3af480e5c90edeba4f75	not-for-merge	'refs/pull/22/merge' of https://github.com/vapor/fluent-sqlite
 8991829a9fdcf4b6170cdd43baa6c78b96cd9583	not-for-merge	'refs/pull/24/head' of https://github.com/vapor/fluent-sqlite
+82571420d7840e35fa129a084b4f2a0744cf903d	not-for-merge	'refs/pull/26/head' of https://github.com/vapor/fluent-sqlite
+5b0d50a92a663da6576100bef6bcf0b333e6abc5	not-for-merge	'refs/pull/26/merge' of https://github.com/vapor/fluent-sqlite
+7674025fc07ea5e9ee4e16b75ed3b543c28f0ebb	not-for-merge	'refs/pull/27/head' of https://github.com/vapor/fluent-sqlite
+7161530683a52ce0af60d73e827ec160bc562b5c	not-for-merge	'refs/pull/27/merge' of https://github.com/vapor/fluent-sqlite
 c32f5bda84bf4ea691d19afe183d40044f579e11	not-for-merge	tag '3.0.0' of https://github.com/vapor/fluent-sqlite
 a2d70d95b660631d591a7aa1ed1a65c91f67acf3	not-for-merge	tag '3.0.0-rc.1' of https://github.com/vapor/fluent-sqlite
 218d7af5201ee769a5479fbae32a4a1ca4f25c8e	not-for-merge	tag '3.0.0-rc.2' of https://github.com/vapor/fluent-sqlite

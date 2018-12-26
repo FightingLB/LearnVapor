@@ -470,6 +470,7 @@ depends-external:
 - "/Users/lb/Documents/Project/LearnVapor/.build/x86_64-apple-macosx10.10/debug/Random.swiftmodule"
 - "/Users/lb/Documents/Project/LearnVapor/.build/x86_64-apple-macosx10.10/debug/URLEncodedForm.swiftmodule"
 - "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Darwin.swiftmodule"
+- "/Users/lb/Documents/Project/LearnVapor/.build/x86_64-apple-macosx10.10/debug/Authentication.swiftmodule"
 - "/Users/lb/Documents/Project/LearnVapor/.build/x86_64-apple-macosx10.10/debug/Validation.swiftmodule"
 - "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Foundation.swiftmodule"
 - "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreFoundation.swiftmodule"
@@ -557,4 +558,4 @@ depends-external:
 - "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/ApplicationServices.framework/Headers/ApplicationServices.apinotes"
 - "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
 - "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
-interface-hash: "7be3e5e1518f70745dfc84b5f77f157f"
+interface-hash: "203fc0abed0bdd0c6215fd656d83ace1"

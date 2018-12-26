@@ -116,6 +116,7 @@ depends-member:
 - !private ["11DatabaseKit0A14ConnectionPoolC", "assertionFailure"]
 - ["11DatabaseKit0A14ConnectionPoolC", "config"]
 - ["11DatabaseKit0A14ConnectionPoolC", "database"]
+- ["11DatabaseKit0A14ConnectionPoolC", "deinit"]
 - ["11DatabaseKit0A14ConnectionPoolC", "eventLoop"]
 - ["11DatabaseKit0A14ConnectionPoolC", "init"]
 - ["11DatabaseKit0A14ConnectionPoolC", "releaseConnection"]

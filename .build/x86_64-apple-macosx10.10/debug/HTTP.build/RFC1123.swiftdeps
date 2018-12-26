@@ -247,6 +247,7 @@ depends-member:
 - !private ["4HTTP16RFC1123DateCacheC", "cachedTimestamp"]
 - ["4HTTP16RFC1123DateCacheC", "currentTimestamp"]
 - !private ["4HTTP16RFC1123DateCacheC", "dayNames"]
+- ["4HTTP16RFC1123DateCacheC", "deinit"]
 - !private ["4HTTP16RFC1123DateCacheC", "gmtime_r"]
 - !private ["4HTTP16RFC1123DateCacheC", "init"]
 - !private ["4HTTP16RFC1123DateCacheC", "monthNames"]

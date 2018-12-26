@@ -1,6 +1,6 @@
-version: "Apple Swift version 4.2 (swiftlang-1000.11.37.1 clang-1000.11.45.1)"
-options: "16884e0151792db83ab26e3f62583a5d"
-build_time: [1539405402, 644325000]
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "beb8cb9ec3140191dc13c4356379d5e8"
+build_time: [1545807288, 9976000]
 inputs:
   "/Users/lb/Documents/Project/LearnVapor/.build/checkouts/console.git--1231705849320085599/Sources/Command/Base/CommandOption.swift": [1539358997, 0]
   "/Users/lb/Documents/Project/LearnVapor/.build/checkouts/console.git--1231705849320085599/Sources/Command/Base/CommandRunnable.swift": [1539358997, 0]

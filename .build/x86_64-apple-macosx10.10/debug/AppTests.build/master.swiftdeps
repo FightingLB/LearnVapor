@@ -1,0 +1,5 @@
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "b56e1578481a60e459bb724ee5dae985"
+build_time: [1545807341, 5475000]
+inputs:
+  "/Users/lb/Documents/Project/LearnVapor/Tests/AppTests/AppTests.swift": [1545804136, 0]

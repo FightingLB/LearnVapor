@@ -218,6 +218,7 @@ depends-member:
 - ["11TemplateKit0A11ByteScannerC", "buffer"]
 - ["11TemplateKit0A11ByteScannerC", "column"]
 - ["11TemplateKit0A11ByteScannerC", "data"]
+- ["11TemplateKit0A11ByteScannerC", "deinit"]
 - ["11TemplateKit0A11ByteScannerC", "endAddress"]
 - ["11TemplateKit0A11ByteScannerC", "file"]
 - ["11TemplateKit0A11ByteScannerC", "init"]

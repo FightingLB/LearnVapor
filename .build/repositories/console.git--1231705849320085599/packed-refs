@@ -1,5 +1,4 @@
 # pack-refs with: peeled fully-peeled sorted 
-37c308bf15143bca299a7c7dbaff9cc2572795ac refs/heads/custom-activity-indicator
 c5abaebed4922610897b9fcd149863a5444d793e refs/heads/keypath-swift-4.2
 5b9796d39f201b3dd06800437abd9d774a455e57 refs/heads/master
 b42e71956d80ac94ad9423447335d7ed0758f849 refs/heads/nio
@@ -67,7 +66,6 @@ f39bcc5883b3c7c6ff5f215e39af6f7e968b7d52 refs/pull/73/merge
 4d65140df10eb480176986539994de22a175210a refs/pull/74/head
 dec6a1439ca305b723889f09dee9632dead02af9 refs/pull/74/merge
 37c308bf15143bca299a7c7dbaff9cc2572795ac refs/pull/75/head
-1935435a22a94b8c3ae4b4dda1b9a43c36c48c70 refs/pull/75/merge
 dcd155828456210705e0957347f81a112cfbdaa9 refs/pull/78/head
 682275d2013e913ccf4e7f5a51b96473b2a6768f refs/pull/78/merge
 91ffd73c91fc341839ecacb6280d6bbf41b562ff refs/pull/8/head

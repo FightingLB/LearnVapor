@@ -1,6 +1,6 @@
-version: "Apple Swift version 4.2 (swiftlang-1000.11.37.1 clang-1000.11.45.1)"
-options: "5969578afa32f909abda3c425a36c240"
-build_time: [1539405409, 770631000]
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "f1235d8b144da118194da9dfc08068bd"
+build_time: [1545807296, 919717000]
 inputs:
   "/Users/lb/Documents/Project/LearnVapor/.build/checkouts/auth.git-6422525414104458182/Sources/Authentication/Authenticatable.swift": [1539358996, 0]
   "/Users/lb/Documents/Project/LearnVapor/.build/checkouts/auth.git-6422525414104458182/Sources/Authentication/AuthenticationCache.swift": [1539358996, 0]

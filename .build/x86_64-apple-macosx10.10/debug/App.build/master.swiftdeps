@@ -1,10 +1,10 @@
-version: "Apple Swift version 4.2 (swiftlang-1000.11.37.1 clang-1000.11.45.1)"
-options: "ae47008985b41664024aa29c34cc2570"
-build_time: [1539405420, 108643000]
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "3e2cca261fd59ad5042d79a31e2bf097"
+build_time: [1545807301, 674863000]
 inputs:
   "/Users/lb/Documents/Project/LearnVapor/Sources/App/Controllers/TodoController.swift": [1539153798, 0]
   "/Users/lb/Documents/Project/LearnVapor/Sources/App/Models/Todo.swift": [1539153798, 0]
   "/Users/lb/Documents/Project/LearnVapor/Sources/App/app.swift": [1539153798, 0]
   "/Users/lb/Documents/Project/LearnVapor/Sources/App/boot.swift": [1539153798, 0]
-  "/Users/lb/Documents/Project/LearnVapor/Sources/App/configure.swift": [1539359140, 0]
-  "/Users/lb/Documents/Project/LearnVapor/Sources/App/routes.swift": [1539330122, 0]
+  "/Users/lb/Documents/Project/LearnVapor/Sources/App/configure.swift": [1539408907, 0]
+  "/Users/lb/Documents/Project/LearnVapor/Sources/App/routes.swift": [1539485558, 0]

@@ -1,6 +1,6 @@
-version: "Apple Swift version 4.2 (swiftlang-1000.11.37.1 clang-1000.11.45.1)"
-options: "33db00f361da1b6b6ca913477109700b"
-build_time: [1539405404, 864349000]
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "b4c1a7bc474db44d1dced020325c9a04"
+build_time: [1545807290, 198478000]
 inputs:
   "/Users/lb/Documents/Project/LearnVapor/.build/checkouts/fluent.git--7619811335752932298/Sources/Fluent/Cache/CacheEntry.swift": [1539359788, 0]
   "/Users/lb/Documents/Project/LearnVapor/.build/checkouts/fluent.git--7619811335752932298/Sources/Fluent/Cache/KeyedCacheSupporting+Fluent.swift": [1539359788, 0]

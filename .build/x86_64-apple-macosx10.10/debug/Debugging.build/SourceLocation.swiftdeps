@@ -132,7 +132,6 @@ depends-external:
 - "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Swift.swiftmodule"
 - "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/IOKit.swiftmodule"
 - "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/SwiftOnoneSupport.swiftmodule"
-- "/Users/lb/Documents/Project/LearnVapor/.build/checkouts/swift-nio-zlib-support.git--4783613459776704231/module.modulemap"
 - "/Users/lb/Documents/Project/LearnVapor/.build/x86_64-apple-macosx10.10/debug/CNIOSHA1.build/module.modulemap"
 - "/Users/lb/Documents/Project/LearnVapor/.build/x86_64-apple-macosx10.10/debug/CNIOOpenSSL.build/module.modulemap"
 - "/Users/lb/Documents/Project/LearnVapor/.build/x86_64-apple-macosx10.10/debug/CCryptoOpenSSL.build/module.modulemap"

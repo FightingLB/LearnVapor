@@ -1,6 +1,6 @@
-version: "Apple Swift version 4.2 (swiftlang-1000.11.37.1 clang-1000.11.45.1)"
-options: "8585d64541c59dbadae4608879a49840"
-build_time: [1539405394, 280177000]
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "dcf6fe329a0baa96bd47668adc39f28a"
+build_time: [1545807280, 85895000]
 inputs:
   "/Users/lb/Documents/Project/LearnVapor/.build/checkouts/template-kit.git-6616349092713276412/Sources/TemplateKit/AST/TemplateConditional.swift": [1539358995, 0]
   "/Users/lb/Documents/Project/LearnVapor/.build/checkouts/template-kit.git-6616349092713276412/Sources/TemplateKit/AST/TemplateConstant.swift": [1539358995, 0]

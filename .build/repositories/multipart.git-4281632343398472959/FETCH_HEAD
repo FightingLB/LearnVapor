@@ -1,8 +1,7 @@
 1d98ad2205d0620fe2801048f76420572281e6e8	not-for-merge	branch '2' of https://github.com/vapor/multipart
 b64e70d133116987544125770ab8912ab2d06b39	not-for-merge	branch 'beta' of https://github.com/vapor/multipart
 2676981c04b16deffeed763db795b2e16a160397	not-for-merge	branch 'joannis-performance' of https://github.com/vapor/multipart
-e57007c23a52b68e44ebdfc70cbe882a7c4f1ec3	not-for-merge	branch 'master' of https://github.com/vapor/multipart
-d0fb73602c02bd9dc52ca649e764eca708b1cf00	not-for-merge	branch 'multipart-convertible' of https://github.com/vapor/multipart
+4ec12db828888c9fef52f4a59bfb36aa6e7488a8	not-for-merge	branch 'master' of https://github.com/vapor/multipart
 fc15a1617ade3e0d5ef2be72c671f1a9f2a8fec6	not-for-merge	branch 'vapor-1' of https://github.com/vapor/multipart
 3d0d7da9dfa7ab08185d5dc4b9dfee6c098149c3	not-for-merge	'refs/pull/1/head' of https://github.com/vapor/multipart
 d891c02fc2a40ae1114b891d3bd506f06eeed189	not-for-merge	'refs/pull/10/head' of https://github.com/vapor/multipart
@@ -21,9 +20,9 @@ df149d804abbdb40c2f2aa05a9fec69fd3aec288	not-for-merge	'refs/pull/24/head' of ht
 39e6a2b9a7d19bf0045870df4502030799c191d5	not-for-merge	'refs/pull/28/head' of https://github.com/vapor/multipart
 96d5cb22a58b2e947db095ac28a5d28b04b9cf7e	not-for-merge	'refs/pull/3/head' of https://github.com/vapor/multipart
 d0fb73602c02bd9dc52ca649e764eca708b1cf00	not-for-merge	'refs/pull/30/head' of https://github.com/vapor/multipart
-2cd1f1f8e7bb700ede1008d94a684818c1f72d3a	not-for-merge	'refs/pull/30/merge' of https://github.com/vapor/multipart
 e2ab197c540a87ff6d096c3c410d3f74d84a465f	not-for-merge	'refs/pull/31/head' of https://github.com/vapor/multipart
-473e02ea06e4ee0751ee5d1d071b734f14600a0c	not-for-merge	'refs/pull/31/merge' of https://github.com/vapor/multipart
+9974ff2167d354e3976377b8840231796063ebc9	not-for-merge	'refs/pull/32/head' of https://github.com/vapor/multipart
+11d2d25e96ac82e7a9b19927e2cc1ae709162e9d	not-for-merge	'refs/pull/32/merge' of https://github.com/vapor/multipart
 3262755b8d52424a520319d1991509c2a1b7e686	not-for-merge	'refs/pull/4/head' of https://github.com/vapor/multipart
 41dcd6e5bbd30e284817d26f277e564bba02fb0d	not-for-merge	'refs/pull/5/head' of https://github.com/vapor/multipart
 10acbcf6e1238d7e1eeaa1afc8f13a6632e0e888	not-for-merge	'refs/pull/6/head' of https://github.com/vapor/multipart

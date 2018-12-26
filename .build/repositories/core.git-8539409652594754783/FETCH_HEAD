@@ -1,3 +1,5 @@
+03bdf3bfb1cb154f3ba22cb18d94314ffa097970	not-for-merge	branch 'Debuggable_NSError' of https://github.com/vapor/core
+518babdf6364cc5f02c9e1fde34af89bc35da3ae	not-for-merge	branch 'RemoveSwift41' of https://github.com/vapor/core
 f7c36f013ce7d378c343abec98530e10231f188b	not-for-merge	branch 'async-file' of https://github.com/vapor/core
 6bde0686db6beb327c8ef042497fe624b7a6f51e	not-for-merge	branch 'beta' of https://github.com/vapor/core
 f4ee1ce26d63a716e84ed476a3c639d4d7e0fe3b	not-for-merge	branch 'cache' of https://github.com/vapor/core
@@ -5,13 +7,13 @@ f4ee1ce26d63a716e84ed476a3c639d4d7e0fe3b	not-for-merge	branch 'cache' of https:/
 e674863ffc5b0e1f8308fdd71f6dcc6ff3709f38	not-for-merge	branch 'debugging' of https://github.com/vapor/core
 ee3f7ee6eb3ba3fc07fbd8cc26bad73f16619810	not-for-merge	branch 'expanding-file' of https://github.com/vapor/core
 93a3b09dc6667b3635cb11de817fee514bc98b73	not-for-merge	branch 'file-apis' of https://github.com/vapor/core
+22e7a42dad6db87131a7427414db17898347ab47	not-for-merge	branch 'fileio-execute' of https://github.com/vapor/core
 10ebe819e63a681aca0ab7e402b0cdf698c21fdb	not-for-merge	branch 'fix-base64' of https://github.com/vapor/core
 bab2e39d12b8519e970fd5fac5b065b41798d521	not-for-merge	branch 'fix-decoding-failure' of https://github.com/vapor/core
-59932f1206c199c8e3be7e6b5e873f1208c1ee1d	not-for-merge	branch 'flat-transform' of https://github.com/vapor/core
 ebcf3eb231e7ea57f2f11d4f4bb3f54012be4bb9	not-for-merge	branch 'fluent-gm' of https://github.com/vapor/core
 861f6f76b61914a380c68c030727a08d95720b9b	not-for-merge	branch 'future-void' of https://github.com/vapor/core
 95855efa43fa2bce5a9aec02ceb535a325d4edec	not-for-merge	branch 'joannis-performance' of https://github.com/vapor/core
-96ce86ebf9198328795c4b9cb711489460be083c	not-for-merge	branch 'master' of https://github.com/vapor/core
+fda3ebda8046af7c9a886fa4a5cfd886111ac23e	not-for-merge	branch 'master' of https://github.com/vapor/core
 989e8127b4e4920cd8203542e6d9b28fc5127630	not-for-merge	branch 'new-reflection-coders' of https://github.com/vapor/core
 cfad3fc77f6cd14febf6f8506297affa75a6178b	not-for-merge	branch 'nio' of https://github.com/vapor/core
 34e21adde8290c074350fb2517bf8b04d25194dc	not-for-merge	branch 'patches' of https://github.com/vapor/core
@@ -89,11 +91,21 @@ ebcf3eb231e7ea57f2f11d4f4bb3f54012be4bb9	not-for-merge	'refs/pull/157/head' of h
 c5d59203bbf2e68bfc73528788494280c44d6575	not-for-merge	'refs/pull/171/head' of https://github.com/vapor/core
 8622d056be51a76635478d5281f1b83fd24648de	not-for-merge	'refs/pull/172/head' of https://github.com/vapor/core
 328207b33e61fcc89ff8b27ffd80dd6489e00fee	not-for-merge	'refs/pull/173/head' of https://github.com/vapor/core
-80ed984a4ed82468a540c0b5cb601df9d0499574	not-for-merge	'refs/pull/173/merge' of https://github.com/vapor/core
 59932f1206c199c8e3be7e6b5e873f1208c1ee1d	not-for-merge	'refs/pull/174/head' of https://github.com/vapor/core
-fe90ff7faf7856ee691fea604dac37da9f8bee72	not-for-merge	'refs/pull/174/merge' of https://github.com/vapor/core
 9749be07711ff9cb30e2aac664872d2826eec5fe	not-for-merge	'refs/pull/175/head' of https://github.com/vapor/core
 39a1c89da54bc988e83c96de229338c5b107450f	not-for-merge	'refs/pull/175/merge' of https://github.com/vapor/core
+22e7a42dad6db87131a7427414db17898347ab47	not-for-merge	'refs/pull/177/head' of https://github.com/vapor/core
+637724de901cd7f7bc6f32ec70c53ca02a986dd1	not-for-merge	'refs/pull/177/merge' of https://github.com/vapor/core
+03bdf3bfb1cb154f3ba22cb18d94314ffa097970	not-for-merge	'refs/pull/178/head' of https://github.com/vapor/core
+89050f84c8dcb28d3346247d654c3951452d1c2f	not-for-merge	'refs/pull/178/merge' of https://github.com/vapor/core
+518babdf6364cc5f02c9e1fde34af89bc35da3ae	not-for-merge	'refs/pull/179/head' of https://github.com/vapor/core
+61d57d8490b0831699ce41ea39f13a287455d4ce	not-for-merge	'refs/pull/179/merge' of https://github.com/vapor/core
+d0f3d49863d1ac8f8c079c43264db712e958253a	not-for-merge	'refs/pull/180/head' of https://github.com/vapor/core
+94f8ce9a72b2e515e6f8074b17a4714bac88ee56	not-for-merge	'refs/pull/180/merge' of https://github.com/vapor/core
+73c829482650f814654dba5d3c8bda6d4357f357	not-for-merge	'refs/pull/181/head' of https://github.com/vapor/core
+a62d1b89a10e733c4020a842b6a94f02e443baaf	not-for-merge	'refs/pull/181/merge' of https://github.com/vapor/core
+ca19e2d0f2086a95ed14fc68104fc24b40c7dd57	not-for-merge	'refs/pull/182/head' of https://github.com/vapor/core
+248722c1ba6ca4e4bb4c6ee52ec3bc51291bda4d	not-for-merge	'refs/pull/182/merge' of https://github.com/vapor/core
 4bb094c45cbadd83fd4603aef7ddc6083bc69e42	not-for-merge	'refs/pull/19/head' of https://github.com/vapor/core
 7c5524da0e6d4af8c35eb9e0f1ed874af8c12b67	not-for-merge	'refs/pull/19/merge' of https://github.com/vapor/core
 0bf97617657d45b6829ed2af3b2c8518b9eb773a	not-for-merge	'refs/pull/2/head' of https://github.com/vapor/core

@@ -3,7 +3,6 @@ d89abd9efbb325be8153afffb139d5768418269a refs/heads/3.1
 a779158fa4c62acd75ccf42639049702c7a3c494 refs/heads/add-cachekit-library
 49ef12bebf9a07def38628d0fe465e185828121c refs/heads/beta
 2e758af523873060a42853058a1a94521568ee4d refs/heads/httpreq-caching-policy-support
-e80c05b951ef7b4ed424cbba8fbe407eb0b9b80f refs/heads/httpstatus-content
 6eeb2f6a2b19ff8b90f1a50c1961a177f2dd2cef refs/heads/lazy-routes-1536
 157d3b15336caa882662cc75024dd04b2e225246 refs/heads/master
 4400165f817205573e1b3874aee6c96aad1f872b refs/heads/nightly-ci

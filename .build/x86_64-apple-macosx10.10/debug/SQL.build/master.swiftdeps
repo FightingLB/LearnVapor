@@ -1,6 +1,6 @@
-version: "Apple Swift version 4.2 (swiftlang-1000.11.37.1 clang-1000.11.45.1)"
-options: "a4af77d9be66c15c6b1b67e8bdb5068b"
-build_time: [1539405401, 18699000]
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "abe8851d822956d9e906d301e153117b"
+build_time: [1545807286, 362682000]
 inputs:
   "/Users/lb/Documents/Project/LearnVapor/.build/checkouts/sql.git--1773354893095289533/Sources/SQL/Exports.swift": [1539358996, 0]
   "/Users/lb/Documents/Project/LearnVapor/.build/checkouts/sql.git--1773354893095289533/Sources/SQL/SQLAlterTable.swift": [1539358996, 0]

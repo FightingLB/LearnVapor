@@ -1,6 +1,6 @@
-version: "Apple Swift version 4.2 (swiftlang-1000.11.37.1 clang-1000.11.45.1)"
-options: "82636bba8580421bdb682ab9b6e9f8a5"
-build_time: [1539405387, 672969000]
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "9a2164fc6e78a7c7af14005a1c2ffd08"
+build_time: [1545807267, 816406000]
 inputs:
   "/Users/lb/Documents/Project/LearnVapor/.build/checkouts/core.git-8539409652594754783/Sources/Bits/BitsError.swift": [1539359788, 0]
   "/Users/lb/Documents/Project/LearnVapor/.build/checkouts/core.git-8539409652594754783/Sources/Bits/Byte+Alphabet.swift": [1539359788, 0]

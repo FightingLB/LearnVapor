@@ -24,6 +24,7 @@ depends-top-level:
 - "MediaType"
 - "MediaTypePreference"
 - "String"
+- !private "StringLiteralType"
 depends-member:
 - !private ["4Core15AnyOptionalTypeP", "flatMap"]
 - !private ["4Core22AnyReflectionDecodableP", "_getBuiltinLogicValue"]

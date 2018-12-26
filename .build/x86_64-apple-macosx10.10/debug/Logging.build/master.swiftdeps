@@ -1,6 +1,6 @@
-version: "Apple Swift version 4.2 (swiftlang-1000.11.37.1 clang-1000.11.45.1)"
-options: "06808b3c6e188a4bff418cad9e0e3c7f"
-build_time: [1539405393, 822225000]
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "ae53c25e8a77c4a17e8c9a606804c72a"
+build_time: [1545807279, 829051000]
 inputs:
   "/Users/lb/Documents/Project/LearnVapor/.build/checkouts/console.git--1231705849320085599/Sources/Logging/Exports.swift": [1539358997, 0]
   "/Users/lb/Documents/Project/LearnVapor/.build/checkouts/console.git--1231705849320085599/Sources/Logging/LogLevel.swift": [1539358997, 0]

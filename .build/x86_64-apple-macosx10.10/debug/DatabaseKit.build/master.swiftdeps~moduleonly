@@ -1,6 +1,6 @@
-version: "Apple Swift version 4.2 (swiftlang-1000.11.37.1 clang-1000.11.45.1)"
-options: "47e69b11569907b132e1011e06cdab6a"
-build_time: [1539405395, 203577000]
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "7ea943f1f48b70317a9a4baa13bb6d5c"
+build_time: [1545807281, 335715000]
 inputs:
   "/Users/lb/Documents/Project/LearnVapor/.build/checkouts/database-kit.git-6979136078057500527/Sources/DatabaseKit/Connection/Container+CachedConnection.swift": [1539358996, 0]
   "/Users/lb/Documents/Project/LearnVapor/.build/checkouts/database-kit.git-6979136078057500527/Sources/DatabaseKit/Connection/Container+NewConnection.swift": [1539358996, 0]

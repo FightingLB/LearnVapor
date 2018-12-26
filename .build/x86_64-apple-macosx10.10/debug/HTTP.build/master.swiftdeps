@@ -1,6 +1,6 @@
-version: "Apple Swift version 4.2 (swiftlang-1000.11.37.1 clang-1000.11.45.1)"
-options: "14ebf39afbdfbabd915207de573c4185"
-build_time: [1539405395, 45061000]
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "3a94aedd7e24fcd0231b3e36242e6d00"
+build_time: [1545807281, 162908000]
 inputs:
   "/Users/lb/Documents/Project/LearnVapor/.build/checkouts/http.git--6227123644269730208/Sources/HTTP/Body/HTTPBody.swift": [1539358997, 0]
   "/Users/lb/Documents/Project/LearnVapor/.build/checkouts/http.git--6227123644269730208/Sources/HTTP/Body/HTTPBodyRepresentable.swift": [1539358997, 0]

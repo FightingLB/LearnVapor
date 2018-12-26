@@ -1,5 +1,5 @@
-version: "Apple Swift version 4.2 (swiftlang-1000.11.37.1 clang-1000.11.45.1)"
-options: "b72e82069446b8018bea0a9d070f1a0c"
-build_time: [1539405420, 870218000]
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "31ef5ba34324061e2520580a4c9323ec"
+build_time: [1545807302, 473317000]
 inputs:
-  "/Users/lb/Documents/Project/LearnVapor/Sources/Run/main.swift": [1539153798, 0]
+  "/Users/lb/Documents/Project/LearnVapor/Sources/Run/main.swift": [1539405587, 0]

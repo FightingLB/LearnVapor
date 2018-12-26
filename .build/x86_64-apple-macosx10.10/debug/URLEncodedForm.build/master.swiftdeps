@@ -1,6 +1,6 @@
-version: "Apple Swift version 4.2 (swiftlang-1000.11.37.1 clang-1000.11.45.1)"
-options: "31db0e70fcf886c80b91efdae2d7749b"
-build_time: [1539405390, 900237000]
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "ae4804b19fab71fb292c7b10f179cd02"
+build_time: [1545807276, 471018000]
 inputs:
   "/Users/lb/Documents/Project/LearnVapor/.build/checkouts/url-encoded-form.git--7962792991753699495/Sources/URLEncodedForm/Codable/URLEncodedFormDecoder.swift": [1539358994, 0]
   "/Users/lb/Documents/Project/LearnVapor/.build/checkouts/url-encoded-form.git--7962792991753699495/Sources/URLEncodedForm/Codable/URLEncodedFormEncoder.swift": [1539358994, 0]

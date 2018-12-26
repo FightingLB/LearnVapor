@@ -2,7 +2,7 @@ dependencies: \
   /Users/lb/Documents/Project/LearnVapor/.build/checkouts/crypto.git--6549914863907898371/Sources/CBase32/base32.c \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/usr/include/module.modulemap \
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/10.0.0/include/module.modulemap \
-  /Users/lb/Documents/Project/LearnVapor/.build/checkouts/swift-nio-zlib-support.git--4783613459776704231/module.modulemap \
+  /Users/lb/Documents/Project/LearnVapor/.build/checkouts/swift-nio-ssl-support.git--7591788603050871532/module.modulemap \
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/10.0.0/include/__stddef_max_align_t.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/usr/include/sys/cdefs.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/usr/include/sys/_symbol_aliasing.h \
@@ -489,5 +489,4 @@ dependencies: \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/usr/include/libc.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/usr/include/sysexits.h \
   /Users/lb/Documents/Project/LearnVapor/.build/checkouts/crypto.git--6549914863907898371/Sources/CBase32/include/module.modulemap \
-  /Users/lb/Documents/Project/LearnVapor/.build/checkouts/swift-nio-ssl-support.git--7591788603050871532/module.modulemap \
   /Users/lb/Documents/Project/LearnVapor/.build/checkouts/crypto.git--6549914863907898371/Sources/CBase32/base32.h
