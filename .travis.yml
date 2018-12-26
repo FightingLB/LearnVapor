@@ -1,7 +1,7 @@
 osx_image: xcode10
 language: swift
 script:
-  - xcodebuild -project LearnVapor.xcodeproj -scheme Run -sdk macosx ONLY_ACTIVE_ARCH=NO 
-  - xcodebuild test -project LearnVapor.xcodeproj -scheme Run -sdk macosx ONLY_ACTIVE_ARCH=NO
+  - xcodebuild -project LearnVapor.xcodeproj -scheme Run -sdk macosx ONLY_ACTIVE_ARCH=NO clean build test
 after_success:
   - bash <(curl -s https://codecov.io/bash)
+
