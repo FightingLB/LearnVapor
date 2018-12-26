@@ -1,0 +1,29 @@
+{
+  "": {
+    "swift-dependencies": "/Users/lb/Documents/Project/LearnVapor/.build/x86_64-apple-macosx10.10/debug/Logging.build/master.swiftdeps"
+  },
+  "/Users/lb/Documents/Project/LearnVapor/.build/checkouts/console.git--1231705849320085599/Sources/Logging/Exports.swift": {
+    "dependencies": "/Users/lb/Documents/Project/LearnVapor/.build/x86_64-apple-macosx10.10/debug/Logging.build/Exports.d",
+    "object": "/Users/lb/Documents/Project/LearnVapor/.build/x86_64-apple-macosx10.10/debug/Logging.build/Exports.swift.o",
+    "swiftmodule": "/Users/lb/Documents/Project/LearnVapor/.build/x86_64-apple-macosx10.10/debug/Logging.build/Exports~partial.swiftmodule",
+    "swift-dependencies": "/Users/lb/Documents/Project/LearnVapor/.build/x86_64-apple-macosx10.10/debug/Logging.build/Exports.swiftdeps"
+  },
+  "/Users/lb/Documents/Project/LearnVapor/.build/checkouts/console.git--1231705849320085599/Sources/Logging/LogLevel.swift": {
+    "dependencies": "/Users/lb/Documents/Project/LearnVapor/.build/x86_64-apple-macosx10.10/debug/Logging.build/LogLevel.d",
+    "object": "/Users/lb/Documents/Project/LearnVapor/.build/x86_64-apple-macosx10.10/debug/Logging.build/LogLevel.swift.o",
+    "swiftmodule": "/Users/lb/Documents/Project/LearnVapor/.build/x86_64-apple-macosx10.10/debug/Logging.build/LogLevel~partial.swiftmodule",
+    "swift-dependencies": "/Users/lb/Documents/Project/LearnVapor/.build/x86_64-apple-macosx10.10/debug/Logging.build/LogLevel.swiftdeps"
+  },
+  "/Users/lb/Documents/Project/LearnVapor/.build/checkouts/console.git--1231705849320085599/Sources/Logging/Logger.swift": {
+    "dependencies": "/Users/lb/Documents/Project/LearnVapor/.build/x86_64-apple-macosx10.10/debug/Logging.build/Logger.d",
+    "object": "/Users/lb/Documents/Project/LearnVapor/.build/x86_64-apple-macosx10.10/debug/Logging.build/Logger.swift.o",
+    "swiftmodule": "/Users/lb/Documents/Project/LearnVapor/.build/x86_64-apple-macosx10.10/debug/Logging.build/Logger~partial.swiftmodule",
+    "swift-dependencies": "/Users/lb/Documents/Project/LearnVapor/.build/x86_64-apple-macosx10.10/debug/Logging.build/Logger.swiftdeps"
+  },
+  "/Users/lb/Documents/Project/LearnVapor/.build/checkouts/console.git--1231705849320085599/Sources/Logging/PrintLogger.swift": {
+    "dependencies": "/Users/lb/Documents/Project/LearnVapor/.build/x86_64-apple-macosx10.10/debug/Logging.build/PrintLogger.d",
+    "object": "/Users/lb/Documents/Project/LearnVapor/.build/x86_64-apple-macosx10.10/debug/Logging.build/PrintLogger.swift.o",
+    "swiftmodule": "/Users/lb/Documents/Project/LearnVapor/.build/x86_64-apple-macosx10.10/debug/Logging.build/PrintLogger~partial.swiftmodule",
+    "swift-dependencies": "/Users/lb/Documents/Project/LearnVapor/.build/x86_64-apple-macosx10.10/debug/Logging.build/PrintLogger.swiftdeps"
+  }
+}

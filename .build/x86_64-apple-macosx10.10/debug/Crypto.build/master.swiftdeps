@@ -1,0 +1,23 @@
+version: "Apple Swift version 4.2 (swiftlang-1000.11.37.1 clang-1000.11.45.1)"
+options: "0471a0df057b730d08ce4ba7e6413a58"
+build_time: [1539405397, 893348000]
+inputs:
+  "/Users/lb/Documents/Project/LearnVapor/.build/checkouts/crypto.git--6549914863907898371/Sources/Crypto/BCrypt/BCryptDigest.swift": [1539358998, 0]
+  "/Users/lb/Documents/Project/LearnVapor/.build/checkouts/crypto.git--6549914863907898371/Sources/Crypto/Cipher/AuthenticatedCipher.swift": [1539358998, 0]
+  "/Users/lb/Documents/Project/LearnVapor/.build/checkouts/crypto.git--6549914863907898371/Sources/Crypto/Cipher/AuthenticatedCipherAlgorithm.swift": [1539358998, 0]
+  "/Users/lb/Documents/Project/LearnVapor/.build/checkouts/crypto.git--6549914863907898371/Sources/Crypto/Cipher/Cipher.swift": [1539358998, 0]
+  "/Users/lb/Documents/Project/LearnVapor/.build/checkouts/crypto.git--6549914863907898371/Sources/Crypto/Cipher/CipherAlgorithm.swift": [1539358998, 0]
+  "/Users/lb/Documents/Project/LearnVapor/.build/checkouts/crypto.git--6549914863907898371/Sources/Crypto/Cipher/OpenSSLCipherAlgorithm.swift": [1539358998, 0]
+  "/Users/lb/Documents/Project/LearnVapor/.build/checkouts/crypto.git--6549914863907898371/Sources/Crypto/Cipher/OpenSSLStreamCipher.swift": [1539358998, 0]
+  "/Users/lb/Documents/Project/LearnVapor/.build/checkouts/crypto.git--6549914863907898371/Sources/Crypto/Digest/Digest.swift": [1539358998, 0]
+  "/Users/lb/Documents/Project/LearnVapor/.build/checkouts/crypto.git--6549914863907898371/Sources/Crypto/Digest/DigestAlgorithm.swift": [1539358998, 0]
+  "/Users/lb/Documents/Project/LearnVapor/.build/checkouts/crypto.git--6549914863907898371/Sources/Crypto/MAC/HMAC.swift": [1539358998, 0]
+  "/Users/lb/Documents/Project/LearnVapor/.build/checkouts/crypto.git--6549914863907898371/Sources/Crypto/MAC/OTP.swift": [1539358998, 0]
+  "/Users/lb/Documents/Project/LearnVapor/.build/checkouts/crypto.git--6549914863907898371/Sources/Crypto/RSA/RSA.swift": [1539358998, 0]
+  "/Users/lb/Documents/Project/LearnVapor/.build/checkouts/crypto.git--6549914863907898371/Sources/Crypto/RSA/RSAKey.swift": [1539358998, 0]
+  "/Users/lb/Documents/Project/LearnVapor/.build/checkouts/crypto.git--6549914863907898371/Sources/Crypto/RSA/RSAPadding.swift": [1539358998, 0]
+  "/Users/lb/Documents/Project/LearnVapor/.build/checkouts/crypto.git--6549914863907898371/Sources/Crypto/Random/CryptoRandom.swift": [1539358998, 0]
+  "/Users/lb/Documents/Project/LearnVapor/.build/checkouts/crypto.git--6549914863907898371/Sources/Crypto/Utilities/Base32.swift": [1539358998, 0]
+  "/Users/lb/Documents/Project/LearnVapor/.build/checkouts/crypto.git--6549914863907898371/Sources/Crypto/Utilities/CryptoError.swift": [1539358998, 0]
+  "/Users/lb/Documents/Project/LearnVapor/.build/checkouts/crypto.git--6549914863907898371/Sources/Crypto/Utilities/Deprecated.swift": [1539358998, 0]
+  "/Users/lb/Documents/Project/LearnVapor/.build/checkouts/crypto.git--6549914863907898371/Sources/Crypto/Utilities/Exports.swift": [1539358998, 0]

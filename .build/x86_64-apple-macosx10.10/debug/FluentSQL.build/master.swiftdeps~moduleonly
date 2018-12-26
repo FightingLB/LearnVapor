@@ -1,0 +1,13 @@
+version: "Apple Swift version 4.2 (swiftlang-1000.11.37.1 clang-1000.11.45.1)"
+options: "34b398978c62a3829de07037706f571c"
+build_time: [1539405416, 19698000]
+inputs:
+  "/Users/lb/Documents/Project/LearnVapor/.build/checkouts/fluent.git--7619811335752932298/Sources/FluentSQL/Exports.swift": [1539359788, 0]
+  "/Users/lb/Documents/Project/LearnVapor/.build/checkouts/fluent.git--7619811335752932298/Sources/FluentSQL/FluentSQLQuery.swift": [1539359788, 0]
+  "/Users/lb/Documents/Project/LearnVapor/.build/checkouts/fluent.git--7619811335752932298/Sources/FluentSQL/FluentSQLSchema.swift": [1539359788, 0]
+  "/Users/lb/Documents/Project/LearnVapor/.build/checkouts/fluent.git--7619811335752932298/Sources/FluentSQL/QueryBuilder+GroupBy.swift": [1539359788, 0]
+  "/Users/lb/Documents/Project/LearnVapor/.build/checkouts/fluent.git--7619811335752932298/Sources/FluentSQL/SQL+Contains.swift": [1539359788, 0]
+  "/Users/lb/Documents/Project/LearnVapor/.build/checkouts/fluent.git--7619811335752932298/Sources/FluentSQL/SQL+JoinSupporting.swift": [1539359788, 0]
+  "/Users/lb/Documents/Project/LearnVapor/.build/checkouts/fluent.git--7619811335752932298/Sources/FluentSQL/SQL+QuerySupporting.swift": [1539359788, 0]
+  "/Users/lb/Documents/Project/LearnVapor/.build/checkouts/fluent.git--7619811335752932298/Sources/FluentSQL/SQL+SchemaSupporting.swift": [1539359788, 0]
+  "/Users/lb/Documents/Project/LearnVapor/.build/checkouts/fluent.git--7619811335752932298/Sources/FluentSQL/SchemaBuilder+Field.swift": [1539359788, 0]

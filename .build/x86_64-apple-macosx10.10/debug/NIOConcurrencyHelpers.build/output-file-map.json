@@ -1,0 +1,17 @@
+{
+  "": {
+    "swift-dependencies": "/Users/lb/Documents/Project/LearnVapor/.build/x86_64-apple-macosx10.10/debug/NIOConcurrencyHelpers.build/master.swiftdeps"
+  },
+  "/Users/lb/Documents/Project/LearnVapor/.build/checkouts/swift-nio.git-8756902686293799568/Sources/NIOConcurrencyHelpers/atomics.swift": {
+    "dependencies": "/Users/lb/Documents/Project/LearnVapor/.build/x86_64-apple-macosx10.10/debug/NIOConcurrencyHelpers.build/atomics.d",
+    "object": "/Users/lb/Documents/Project/LearnVapor/.build/x86_64-apple-macosx10.10/debug/NIOConcurrencyHelpers.build/atomics.swift.o",
+    "swiftmodule": "/Users/lb/Documents/Project/LearnVapor/.build/x86_64-apple-macosx10.10/debug/NIOConcurrencyHelpers.build/atomics~partial.swiftmodule",
+    "swift-dependencies": "/Users/lb/Documents/Project/LearnVapor/.build/x86_64-apple-macosx10.10/debug/NIOConcurrencyHelpers.build/atomics.swiftdeps"
+  },
+  "/Users/lb/Documents/Project/LearnVapor/.build/checkouts/swift-nio.git-8756902686293799568/Sources/NIOConcurrencyHelpers/lock.swift": {
+    "dependencies": "/Users/lb/Documents/Project/LearnVapor/.build/x86_64-apple-macosx10.10/debug/NIOConcurrencyHelpers.build/lock.d",
+    "object": "/Users/lb/Documents/Project/LearnVapor/.build/x86_64-apple-macosx10.10/debug/NIOConcurrencyHelpers.build/lock.swift.o",
+    "swiftmodule": "/Users/lb/Documents/Project/LearnVapor/.build/x86_64-apple-macosx10.10/debug/NIOConcurrencyHelpers.build/lock~partial.swiftmodule",
+    "swift-dependencies": "/Users/lb/Documents/Project/LearnVapor/.build/x86_64-apple-macosx10.10/debug/NIOConcurrencyHelpers.build/lock.swiftdeps"
+  }
+}

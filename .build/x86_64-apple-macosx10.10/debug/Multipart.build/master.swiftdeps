@@ -1,0 +1,12 @@
+version: "Apple Swift version 4.2 (swiftlang-1000.11.37.1 clang-1000.11.45.1)"
+options: "91cd5378685dbb944a258f401c37cdba"
+build_time: [1539405390, 887474000]
+inputs:
+  "/Users/lb/Documents/Project/LearnVapor/.build/checkouts/multipart.git-4281632343398472959/Sources/Multipart/Exports.swift": [1539358995, 0]
+  "/Users/lb/Documents/Project/LearnVapor/.build/checkouts/multipart.git-4281632343398472959/Sources/Multipart/FormDataDecoder.swift": [1539358995, 0]
+  "/Users/lb/Documents/Project/LearnVapor/.build/checkouts/multipart.git-4281632343398472959/Sources/Multipart/FormDataEncoder.swift": [1539358995, 0]
+  "/Users/lb/Documents/Project/LearnVapor/.build/checkouts/multipart.git-4281632343398472959/Sources/Multipart/MultipartError.swift": [1539358995, 0]
+  "/Users/lb/Documents/Project/LearnVapor/.build/checkouts/multipart.git-4281632343398472959/Sources/Multipart/MultipartParser.swift": [1539358995, 0]
+  "/Users/lb/Documents/Project/LearnVapor/.build/checkouts/multipart.git-4281632343398472959/Sources/Multipart/MultipartPart.swift": [1539358995, 0]
+  "/Users/lb/Documents/Project/LearnVapor/.build/checkouts/multipart.git-4281632343398472959/Sources/Multipart/MultipartPartConvertible.swift": [1539358995, 0]
+  "/Users/lb/Documents/Project/LearnVapor/.build/checkouts/multipart.git-4281632343398472959/Sources/Multipart/MultipartSerializer.swift": [1539358995, 0]

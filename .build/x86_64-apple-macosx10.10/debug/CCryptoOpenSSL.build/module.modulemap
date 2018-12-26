@@ -1,0 +1,4 @@
+module CCryptoOpenSSL {
+    umbrella "/Users/lb/Documents/Project/LearnVapor/.build/checkouts/crypto.git--6549914863907898371/Sources/CCryptoOpenSSL/include"
+    export *
+}

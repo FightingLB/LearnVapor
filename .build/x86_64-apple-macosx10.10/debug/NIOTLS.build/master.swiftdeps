@@ -1,0 +1,7 @@
+version: "Apple Swift version 4.2 (swiftlang-1000.11.37.1 clang-1000.11.45.1)"
+options: "e6744abd01a9db4a7e8785bd32928b49"
+build_time: [1539359012, 4963000]
+inputs:
+  "/Users/lb/Documents/Project/LearnVapor/.build/checkouts/swift-nio.git-8756902686293799568/Sources/NIOTLS/ApplicationProtocolNegotiationHandler.swift": [1539358995, 0]
+  "/Users/lb/Documents/Project/LearnVapor/.build/checkouts/swift-nio.git-8756902686293799568/Sources/NIOTLS/SNIHandler.swift": [1539358995, 0]
+  "/Users/lb/Documents/Project/LearnVapor/.build/checkouts/swift-nio.git-8756902686293799568/Sources/NIOTLS/TLSEvents.swift": [1539358995, 0]

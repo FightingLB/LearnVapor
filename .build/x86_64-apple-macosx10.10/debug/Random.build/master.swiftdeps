@@ -1,0 +1,8 @@
+version: "Apple Swift version 4.2 (swiftlang-1000.11.37.1 clang-1000.11.45.1)"
+options: "ea95494de363c58629e0abdbb5389c35"
+build_time: [1539359014, 341250000]
+inputs:
+  "/Users/lb/Documents/Project/LearnVapor/.build/checkouts/crypto.git--6549914863907898371/Sources/Random/Array+Random.swift": [1539358998, 0]
+  "/Users/lb/Documents/Project/LearnVapor/.build/checkouts/crypto.git--6549914863907898371/Sources/Random/OSRandom.swift": [1539358998, 0]
+  "/Users/lb/Documents/Project/LearnVapor/.build/checkouts/crypto.git--6549914863907898371/Sources/Random/RandomProtocol.swift": [1539358998, 0]
+  "/Users/lb/Documents/Project/LearnVapor/.build/checkouts/crypto.git--6549914863907898371/Sources/Random/URandom.swift": [1539358998, 0]

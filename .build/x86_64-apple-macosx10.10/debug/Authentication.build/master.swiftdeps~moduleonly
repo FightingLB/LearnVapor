@@ -1,0 +1,21 @@
+version: "Apple Swift version 4.2 (swiftlang-1000.11.37.1 clang-1000.11.45.1)"
+options: "5969578afa32f909abda3c425a36c240"
+build_time: [1539405409, 770631000]
+inputs:
+  "/Users/lb/Documents/Project/LearnVapor/.build/checkouts/auth.git-6422525414104458182/Sources/Authentication/Authenticatable.swift": [1539358996, 0]
+  "/Users/lb/Documents/Project/LearnVapor/.build/checkouts/auth.git-6422525414104458182/Sources/Authentication/AuthenticationCache.swift": [1539358996, 0]
+  "/Users/lb/Documents/Project/LearnVapor/.build/checkouts/auth.git-6422525414104458182/Sources/Authentication/AuthenticationProvider.swift": [1539358996, 0]
+  "/Users/lb/Documents/Project/LearnVapor/.build/checkouts/auth.git-6422525414104458182/Sources/Authentication/Basic/BasicAuthenticatable.swift": [1539358996, 0]
+  "/Users/lb/Documents/Project/LearnVapor/.build/checkouts/auth.git-6422525414104458182/Sources/Authentication/Basic/BasicAuthenticationMiddleware.swift": [1539358996, 0]
+  "/Users/lb/Documents/Project/LearnVapor/.build/checkouts/auth.git-6422525414104458182/Sources/Authentication/Bearer/BearerAuthenticatable.swift": [1539358996, 0]
+  "/Users/lb/Documents/Project/LearnVapor/.build/checkouts/auth.git-6422525414104458182/Sources/Authentication/Bearer/BearerAuthenticationMiddleware.swift": [1539358996, 0]
+  "/Users/lb/Documents/Project/LearnVapor/.build/checkouts/auth.git-6422525414104458182/Sources/Authentication/Exports.swift": [1539358996, 0]
+  "/Users/lb/Documents/Project/LearnVapor/.build/checkouts/auth.git-6422525414104458182/Sources/Authentication/Password/PasswordAuthenticatable.swift": [1539358996, 0]
+  "/Users/lb/Documents/Project/LearnVapor/.build/checkouts/auth.git-6422525414104458182/Sources/Authentication/Password/PasswordVerifier.swift": [1539358996, 0]
+  "/Users/lb/Documents/Project/LearnVapor/.build/checkouts/auth.git-6422525414104458182/Sources/Authentication/Persist/AuthenticationSessionsMiddleware.swift": [1539358996, 0]
+  "/Users/lb/Documents/Project/LearnVapor/.build/checkouts/auth.git-6422525414104458182/Sources/Authentication/Persist/RedirectMiddleware.swift": [1539358996, 0]
+  "/Users/lb/Documents/Project/LearnVapor/.build/checkouts/auth.git-6422525414104458182/Sources/Authentication/Persist/SessionAuthenticatable.swift": [1539358996, 0]
+  "/Users/lb/Documents/Project/LearnVapor/.build/checkouts/auth.git-6422525414104458182/Sources/Authentication/Token/TokenAuthenticatable.swift": [1539358996, 0]
+  "/Users/lb/Documents/Project/LearnVapor/.build/checkouts/auth.git-6422525414104458182/Sources/Authentication/Token/TokenAuthenticationMiddleware.swift": [1539358996, 0]
+  "/Users/lb/Documents/Project/LearnVapor/.build/checkouts/auth.git-6422525414104458182/Sources/Authentication/Utilities/AuthenticationError.swift": [1539358996, 0]
+  "/Users/lb/Documents/Project/LearnVapor/.build/checkouts/auth.git-6422525414104458182/Sources/Authentication/Utilities/GuardMiddleware.swift": [1539358996, 0]

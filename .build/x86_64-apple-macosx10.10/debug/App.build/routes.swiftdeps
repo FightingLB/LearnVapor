@@ -1,0 +1,560 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "routes"
+- "UserInfo"
+- "UserInfoResponse"
+provides-nominal:
+- "3App8UserInfoV"
+- "3App16UserInfoResponseV"
+provides-member:
+- ["3App8UserInfoV", ""]
+- ["3App16UserInfoResponseV", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- !private "!="
+- "=="
+- !private "Abort"
+- "Content"
+- "FloatLiteralType"
+- "Int"
+- "IntegerLiteralType"
+- "Router"
+- "String"
+- !private "StringLiteralType"
+- !private "Todo"
+- !private "TodoController"
+- "UnicodeScalarType"
+- "UserInfo"
+- "UserInfoResponse"
+- "routes"
+- !private "~="
+depends-member:
+- !private ["5Vapor5AbortV", "init"]
+- !private ["5Vapor10AbortErrorP", "init"]
+- !private ["6Fluent12AnyMigrationP", "parameter"]
+- !private ["6Fluent8AnyModelP", "parameter"]
+- !private ["4Core14AnyReflectableP", "parameter"]
+- !private ["4Core22AnyReflectionDecodableP", "_getBuiltinLogicValue"]
+- !private ["4Core22AnyReflectionDecodableP", "init"]
+- !private ["4Core22AnyReflectionDecodableP", "init"]
+- !private ["4Core22AnyReflectionDecodableP", "parameter"]
+- !private ["3SQL11AnySQLTableP", "parameter"]
+- !private ["21NIOConcurrencyHelpers15AtomicPrimitiveP", "_getBuiltinLogicValue"]
+- !private ["4Core21BasicKeyRepresentableP", "init"]
+- !private ["4Core21BasicKeyRepresentableP", "init"]
+- !private ["4Core21BasicKeyRepresentableP", "parameter"]
+- !private ["5Async11BasicWorkerP", "parameters"]
+- !private ["SK", "init"]
+- !private ["SK", "init"]
+- !private ["SK", "parameter"]
+- !private ["Sb", "_getBuiltinLogicValue"]
+- !private ["s7CVarArgP", "_getBuiltinLogicValue"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "parameter"]
+- !private ["s9CodingKeyP", ""]
+- ["s9CodingKeyP", "debugDescription"]
+- ["s9CodingKeyP", "description"]
+- ["s9CodingKeyP", "hash"]
+- ["s9CodingKeyP", "hashValue"]
+- ["s9CodingKeyP", "init"]
+- ["s9CodingKeyP", "intValue"]
+- ["s9CodingKeyP", "stringValue"]
+- !private ["Sl", "init"]
+- !private ["Sl", "init"]
+- !private ["Sl", "parameter"]
+- !private ["SL", "init"]
+- !private ["SL", "init"]
+- !private ["SL", "parameter"]
+- !private ["7Service9ContainerP", "parameters"]
+- !private ["7Service14ContainerAliasP", "parameters"]
+- ["5Vapor7ContentP", ""]
+- !private ["5Vapor7ContentP", "age"]
+- ["5Vapor7ContentP", "decode"]
+- ["5Vapor7ContentP", "defaultContentType"]
+- ["5Vapor7ContentP", "encode"]
+- ["5Vapor7ContentP", "init"]
+- !private ["5Vapor7ContentP", "init"]
+- !private ["5Vapor7ContentP", "name"]
+- !private ["5Vapor7ContentP", "parameter"]
+- !private ["5Vapor7ContentP", "request"]
+- !private ["s28CustomDebugStringConvertibleP", ""]
+- ["s28CustomDebugStringConvertibleP", "debugDescription"]
+- ["s28CustomDebugStringConvertibleP", "description"]
+- ["s28CustomDebugStringConvertibleP", "hash"]
+- ["s28CustomDebugStringConvertibleP", "hashValue"]
+- ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- ["s28CustomDebugStringConvertibleP", "intValue"]
+- !private ["s28CustomDebugStringConvertibleP", "parameter"]
+- !private ["s28CustomDebugStringConvertibleP", "parameters"]
+- ["s28CustomDebugStringConvertibleP", "stringValue"]
+- !private ["s29CustomPlaygroundQuickLookableP", "_getBuiltinLogicValue"]
+- !private ["s29CustomPlaygroundQuickLookableP", "init"]
+- !private ["s29CustomPlaygroundQuickLookableP", "init"]
+- !private ["s29CustomPlaygroundQuickLookableP", "parameter"]
+- !private ["s17CustomReflectableP", "_getBuiltinLogicValue"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "parameter"]
+- !private ["s23CustomStringConvertibleP", ""]
+- !private ["s23CustomStringConvertibleP", "_getBuiltinLogicValue"]
+- ["s23CustomStringConvertibleP", "debugDescription"]
+- ["s23CustomStringConvertibleP", "description"]
+- ["s23CustomStringConvertibleP", "hash"]
+- ["s23CustomStringConvertibleP", "hashValue"]
+- ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- ["s23CustomStringConvertibleP", "intValue"]
+- !private ["s23CustomStringConvertibleP", "parameter"]
+- !private ["s23CustomStringConvertibleP", "parameters"]
+- ["s23CustomStringConvertibleP", "stringValue"]
+- !private ["11DatabaseKit0A11ConnectableP", "parameters"]
+- !private ["9Debugging10DebuggableP", "init"]
+- ["Se", ""]
+- !private ["Se", "_getBuiltinLogicValue"]
+- !private ["Se", "age"]
+- ["Se", "decode"]
+- ["Se", "defaultContentType"]
+- ["Se", "encode"]
+- ["Se", "init"]
+- !private ["Se", "init"]
+- !private ["Se", "name"]
+- !private ["Se", "parameter"]
+- !private ["Se", "request"]
+- !private ["s7DecoderP", "container"]
+- ["SE", ""]
+- !private ["SE", "_getBuiltinLogicValue"]
+- !private ["SE", "age"]
+- ["SE", "decode"]
+- ["SE", "defaultContentType"]
+- ["SE", "encode"]
+- ["SE", "init"]
+- !private ["SE", "init"]
+- !private ["SE", "name"]
+- !private ["SE", "parameter"]
+- !private ["SE", "request"]
+- !private ["s7EncoderP", "container"]
+- !private ["SQ", ""]
+- !private ["SQ", "_getBuiltinLogicValue"]
+- ["SQ", "debugDescription"]
+- ["SQ", "description"]
+- !private ["SQ", "forbidden"]
+- ["SQ", "hash"]
+- ["SQ", "hashValue"]
+- ["SQ", "init"]
+- !private ["SQ", "init"]
+- ["SQ", "intValue"]
+- !private ["SQ", "parameter"]
+- ["SQ", "stringValue"]
+- !private ["s5ErrorP", "init"]
+- !private ["3NIO14EventLoopGroupP", "parameters"]
+- !private ["s27ExpressibleByBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "parameter"]
+- !private ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s26ExpressibleByStringLiteralP", "parameter"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "parameter"]
+- !private ["5Vapor20HTTPMessageContainerP", "parameters"]
+- !private ["8NIOHTTP118HTTPResponseStatusO", "forbidden"]
+- !private ["SH", ""]
+- !private ["SH", "_getBuiltinLogicValue"]
+- ["SH", "debugDescription"]
+- ["SH", "description"]
+- ["SH", "hash"]
+- ["SH", "hashValue"]
+- ["SH", "init"]
+- !private ["SH", "init"]
+- ["SH", "intValue"]
+- !private ["SH", "parameter"]
+- ["SH", "stringValue"]
+- !private ["s6HasherV", "combine"]
+- !private ["6Fluent2IDP", "init"]
+- !private ["6Fluent2IDP", "init"]
+- !private ["6Fluent2IDP", "parameter"]
+- !private ["s22KeyedDecodingContainerV", "decode"]
+- !private ["s30KeyedDecodingContainerProtocolP", "decode"]
+- !private ["s22KeyedEncodingContainerV", "encode"]
+- !private ["s30KeyedEncodingContainerProtocolP", "encode"]
+- !private ["10Foundation14LocalizedErrorP", "init"]
+- !private ["4Core23LosslessDataConvertibleP", "init"]
+- !private ["4Core23LosslessDataConvertibleP", "init"]
+- !private ["4Core23LosslessDataConvertibleP", "parameter"]
+- !private ["4HTTP29LosslessHTTPBodyRepresentableP", "init"]
+- !private ["4HTTP29LosslessHTTPBodyRepresentableP", "init"]
+- !private ["4HTTP29LosslessHTTPBodyRepresentableP", "parameter"]
+- !private ["s25LosslessStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s25LosslessStringConvertibleP", "init"]
+- !private ["s25LosslessStringConvertibleP", "init"]
+- !private ["s25LosslessStringConvertibleP", "parameter"]
+- !private ["6Fluent9MigrationP", "parameter"]
+- !private ["s10MirrorPathP", "init"]
+- !private ["s10MirrorPathP", "init"]
+- !private ["s10MirrorPathP", "parameter"]
+- !private ["6Fluent5ModelP", "parameter"]
+- !private ["9Multipart0A15PartConvertibleP", "init"]
+- !private ["9Multipart0A15PartConvertibleP", "init"]
+- !private ["9Multipart0A15PartConvertibleP", "parameter"]
+- !private ["7Routing9ParameterP", "init"]
+- !private ["7Routing9ParameterP", "init"]
+- !private ["7Routing9ParameterP", "parameter"]
+- !private ["5Vapor19ParametersContainerV", "next"]
+- !private ["7Routing27PathComponentsRepresentableP", "init"]
+- !private ["7Routing27PathComponentsRepresentableP", "init"]
+- !private ["7Routing27PathComponentsRepresentableP", "parameter"]
+- !private ["Sm", "init"]
+- !private ["Sm", "init"]
+- !private ["Sm", "parameter"]
+- !private ["4Core11ReflectableP", "parameter"]
+- !private ["4Core19ReflectionDecodableP", "_getBuiltinLogicValue"]
+- !private ["4Core19ReflectionDecodableP", "init"]
+- !private ["4Core19ReflectionDecodableP", "init"]
+- !private ["4Core19ReflectionDecodableP", "parameter"]
+- !private ["5Vapor7RequestC", "parameters"]
+- ["5Vapor16RequestDecodableP", ""]
+- !private ["5Vapor16RequestDecodableP", "age"]
+- ["5Vapor16RequestDecodableP", "decode"]
+- ["5Vapor16RequestDecodableP", "defaultContentType"]
+- ["5Vapor16RequestDecodableP", "encode"]
+- ["5Vapor16RequestDecodableP", "init"]
+- !private ["5Vapor16RequestDecodableP", "init"]
+- !private ["5Vapor16RequestDecodableP", "name"]
+- !private ["5Vapor16RequestDecodableP", "parameter"]
+- !private ["5Vapor16RequestDecodableP", "parameters"]
+- !private ["5Vapor16RequestDecodableP", "request"]
+- ["5Vapor16RequestEncodableP", ""]
+- !private ["5Vapor16RequestEncodableP", "age"]
+- ["5Vapor16RequestEncodableP", "decode"]
+- ["5Vapor16RequestEncodableP", "defaultContentType"]
+- ["5Vapor16RequestEncodableP", "encode"]
+- ["5Vapor16RequestEncodableP", "init"]
+- !private ["5Vapor16RequestEncodableP", "init"]
+- !private ["5Vapor16RequestEncodableP", "name"]
+- !private ["5Vapor16RequestEncodableP", "parameter"]
+- !private ["5Vapor16RequestEncodableP", "parameters"]
+- !private ["5Vapor16RequestEncodableP", "request"]
+- ["5Vapor17ResponseDecodableP", ""]
+- !private ["5Vapor17ResponseDecodableP", "age"]
+- ["5Vapor17ResponseDecodableP", "decode"]
+- ["5Vapor17ResponseDecodableP", "defaultContentType"]
+- ["5Vapor17ResponseDecodableP", "encode"]
+- ["5Vapor17ResponseDecodableP", "init"]
+- !private ["5Vapor17ResponseDecodableP", "init"]
+- !private ["5Vapor17ResponseDecodableP", "name"]
+- !private ["5Vapor17ResponseDecodableP", "parameter"]
+- !private ["5Vapor17ResponseDecodableP", "request"]
+- ["5Vapor17ResponseEncodableP", ""]
+- !private ["5Vapor17ResponseEncodableP", "age"]
+- ["5Vapor17ResponseEncodableP", "decode"]
+- ["5Vapor17ResponseEncodableP", "defaultContentType"]
+- ["5Vapor17ResponseEncodableP", "encode"]
+- !private ["5Vapor17ResponseEncodableP", "forbidden"]
+- ["5Vapor17ResponseEncodableP", "init"]
+- !private ["5Vapor17ResponseEncodableP", "init"]
+- !private ["5Vapor17ResponseEncodableP", "name"]
+- !private ["5Vapor17ResponseEncodableP", "parameter"]
+- !private ["5Vapor17ResponseEncodableP", "request"]
+- !private ["7Routing17RoutableComponentP", "init"]
+- !private ["7Routing17RoutableComponentP", "init"]
+- !private ["7Routing17RoutableComponentP", "parameter"]
+- !private ["5Vapor6RouterP", "delete"]
+- !private ["5Vapor6RouterP", "get"]
+- !private ["5Vapor6RouterP", "post"]
+- !private ["3SQL8SQLTableP", "parameter"]
+- !private ["6SQLite0A15DataConvertibleP", "_getBuiltinLogicValue"]
+- !private ["6SQLite0A15DataConvertibleP", "init"]
+- !private ["6SQLite0A15DataConvertibleP", "init"]
+- !private ["6SQLite0A15DataConvertibleP", "parameter"]
+- !private ["6SQLite0A27DataTypeStaticRepresentableP", "_getBuiltinLogicValue"]
+- !private ["6SQLite0A27DataTypeStaticRepresentableP", "init"]
+- !private ["6SQLite0A27DataTypeStaticRepresentableP", "init"]
+- !private ["6SQLite0A27DataTypeStaticRepresentableP", "parameter"]
+- !private ["12FluentSQLite0B5ModelP", "parameter"]
+- !private ["12FluentSQLite0B5TableP", "parameter"]
+- !private ["ST", "init"]
+- !private ["ST", "init"]
+- !private ["ST", "parameter"]
+- !private ["7ServiceAAP", "delete"]
+- !private ["7ServiceAAP", "get"]
+- !private ["7ServiceAAP", "post"]
+- !private ["SS", "init"]
+- !private ["SS", "init"]
+- !private ["SS", "parameter"]
+- !private ["Sy", "init"]
+- !private ["Sy", "init"]
+- !private ["Sy", "parameter"]
+- !private ["11TemplateKit0A17DataRepresentableP", "_getBuiltinLogicValue"]
+- !private ["11TemplateKit0A17DataRepresentableP", "init"]
+- !private ["11TemplateKit0A17DataRepresentableP", "init"]
+- !private ["11TemplateKit0A17DataRepresentableP", "parameter"]
+- !private ["s16TextOutputStreamP", "init"]
+- !private ["s16TextOutputStreamP", "init"]
+- !private ["s16TextOutputStreamP", "parameter"]
+- !private ["s20TextOutputStreamableP", "init"]
+- !private ["s20TextOutputStreamableP", "init"]
+- !private ["s20TextOutputStreamableP", "parameter"]
+- !private ["3App4TodoC", "deinit"]
+- !private ["3App4TodoC", "parameter"]
+- !private ["3App14TodoControllerC", "create"]
+- !private ["3App14TodoControllerC", "delete"]
+- !private ["3App14TodoControllerC", "index"]
+- !private ["3App14TodoControllerC", "init"]
+- !private ["14URLEncodedForm0aB15DataConvertibleP", "_getBuiltinLogicValue"]
+- !private ["14URLEncodedForm0aB15DataConvertibleP", "init"]
+- !private ["14URLEncodedForm0aB15DataConvertibleP", "init"]
+- !private ["14URLEncodedForm0aB15DataConvertibleP", "parameter"]
+- !private ["4HTTP16URLRepresentableP", "init"]
+- !private ["4HTTP16URLRepresentableP", "init"]
+- !private ["4HTTP16URLRepresentableP", "parameter"]
+- ["3App8UserInfoV", "Int"]
+- ["3App8UserInfoV", "String"]
+- ["3App8UserInfoV", "age"]
+- ["3App8UserInfoV", "decode"]
+- ["3App8UserInfoV", "defaultContentType"]
+- ["3App8UserInfoV", "deinit"]
+- ["3App8UserInfoV", "encode"]
+- ["3App8UserInfoV", "init"]
+- ["3App8UserInfoV", "name"]
+- ["3App16UserInfoResponseV", "UserInfo"]
+- ["3App16UserInfoResponseV", "decode"]
+- ["3App16UserInfoResponseV", "defaultContentType"]
+- ["3App16UserInfoResponseV", "deinit"]
+- ["3App16UserInfoResponseV", "encode"]
+- ["3App16UserInfoResponseV", "init"]
+- ["3App16UserInfoResponseV", "request"]
+- !private ["s35_ExpressibleByBuiltinBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "parameter"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "parameter"]
+- !private ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- !private ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- !private ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "parameter"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "parameter"]
+- !private ["s33_ExpressibleByStringInterpolationP", "init"]
+- !private ["s33_ExpressibleByStringInterpolationP", "init"]
+- !private ["s33_ExpressibleByStringInterpolationP", "parameter"]
+- !private ["s21_ObjectiveCBridgeableP", "_getBuiltinLogicValue"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "parameter"]
+- !private ["12FluentSQLite01_B5ModelP", "parameter"]
+- !private ["s16_SwiftStringViewP", "init"]
+- !private ["s16_SwiftStringViewP", "init"]
+- !private ["s16_SwiftStringViewP", "parameter"]
+depends-nominal:
+- !private "5Vapor5AbortV"
+- !private "5Vapor10AbortErrorP"
+- !private "6Fluent12AnyMigrationP"
+- !private "6Fluent8AnyModelP"
+- !private "4Core14AnyReflectableP"
+- !private "4Core22AnyReflectionDecodableP"
+- !private "3SQL11AnySQLTableP"
+- !private "21NIOConcurrencyHelpers15AtomicPrimitiveP"
+- !private "4Core21BasicKeyRepresentableP"
+- !private "5Async11BasicWorkerP"
+- !private "SK"
+- !private "Sb"
+- !private "s7CVarArgP"
+- "s9CodingKeyP"
+- !private "Sl"
+- !private "SL"
+- !private "7Service9ContainerP"
+- !private "7Service14ContainerAliasP"
+- "5Vapor7ContentP"
+- "s28CustomDebugStringConvertibleP"
+- !private "s29CustomPlaygroundQuickLookableP"
+- !private "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "11DatabaseKit0A11ConnectableP"
+- !private "9Debugging10DebuggableP"
+- "Se"
+- !private "s7DecoderP"
+- "SE"
+- !private "s7EncoderP"
+- "SQ"
+- !private "s5ErrorP"
+- !private "3NIO14EventLoopGroupP"
+- !private "s27ExpressibleByBooleanLiteralP"
+- !private "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- !private "s26ExpressibleByStringLiteralP"
+- !private "s33ExpressibleByUnicodeScalarLiteralP"
+- !private "5Vapor20HTTPMessageContainerP"
+- !private "8NIOHTTP118HTTPResponseStatusO"
+- "SH"
+- !private "s6HasherV"
+- !private "6Fluent2IDP"
+- !private "s22KeyedDecodingContainerV"
+- !private "s30KeyedDecodingContainerProtocolP"
+- !private "s22KeyedEncodingContainerV"
+- !private "s30KeyedEncodingContainerProtocolP"
+- !private "10Foundation14LocalizedErrorP"
+- !private "4Core23LosslessDataConvertibleP"
+- !private "4HTTP29LosslessHTTPBodyRepresentableP"
+- !private "s25LosslessStringConvertibleP"
+- !private "6Fluent9MigrationP"
+- !private "s10MirrorPathP"
+- !private "6Fluent5ModelP"
+- !private "9Multipart0A15PartConvertibleP"
+- !private "7Routing9ParameterP"
+- !private "5Vapor19ParametersContainerV"
+- !private "7Routing27PathComponentsRepresentableP"
+- !private "Sm"
+- !private "4Core11ReflectableP"
+- !private "4Core19ReflectionDecodableP"
+- !private "5Vapor7RequestC"
+- "5Vapor16RequestDecodableP"
+- "5Vapor16RequestEncodableP"
+- "5Vapor17ResponseDecodableP"
+- "5Vapor17ResponseEncodableP"
+- !private "7Routing17RoutableComponentP"
+- !private "5Vapor6RouterP"
+- !private "3SQL8SQLTableP"
+- !private "6SQLite0A15DataConvertibleP"
+- !private "6SQLite0A27DataTypeStaticRepresentableP"
+- !private "12FluentSQLite0B5ModelP"
+- !private "12FluentSQLite0B5TableP"
+- !private "ST"
+- !private "7ServiceAAP"
+- !private "SS"
+- !private "Sy"
+- !private "11TemplateKit0A17DataRepresentableP"
+- !private "s16TextOutputStreamP"
+- !private "s20TextOutputStreamableP"
+- !private "3App4TodoC"
+- !private "3App14TodoControllerC"
+- !private "14URLEncodedForm0aB15DataConvertibleP"
+- !private "4HTTP16URLRepresentableP"
+- "3App8UserInfoV"
+- "3App16UserInfoResponseV"
+- !private "s35_ExpressibleByBuiltinBooleanLiteralP"
+- !private "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- !private "s34_ExpressibleByBuiltinStringLiteralP"
+- !private "s39_ExpressibleByBuiltinUTF16StringLiteralP"
+- !private "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- !private "s33_ExpressibleByStringInterpolationP"
+- !private "s21_ObjectiveCBridgeableP"
+- !private "12FluentSQLite01_B5ModelP"
+- !private "s16_SwiftStringViewP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.apinotesc"
+- "/Users/lb/Documents/Project/LearnVapor/.build/x86_64-apple-macosx10.10/debug/NIOHTTP1.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/ObjectiveC.swiftmodule"
+- "/Users/lb/Documents/Project/LearnVapor/.build/x86_64-apple-macosx10.10/debug/SQL.swiftmodule"
+- "/Users/lb/Documents/Project/LearnVapor/.build/x86_64-apple-macosx10.10/debug/FluentSQL.swiftmodule"
+- "/Users/lb/Documents/Project/LearnVapor/.build/x86_64-apple-macosx10.10/debug/NIOOpenSSL.swiftmodule"
+- "/Users/lb/Documents/Project/LearnVapor/.build/x86_64-apple-macosx10.10/debug/NIO.swiftmodule"
+- "/Users/lb/Documents/Project/LearnVapor/.build/x86_64-apple-macosx10.10/debug/HTTP.swiftmodule"
+- "/Users/lb/Documents/Project/LearnVapor/.build/x86_64-apple-macosx10.10/debug/NIOTLS.swiftmodule"
+- "/Users/lb/Documents/Project/LearnVapor/.build/x86_64-apple-macosx10.10/debug/Async.swiftmodule"
+- "/Users/lb/Documents/Project/LearnVapor/.build/x86_64-apple-macosx10.10/debug/Command.swiftmodule"
+- "/Users/lb/Documents/Project/LearnVapor/.build/x86_64-apple-macosx10.10/debug/Service.swiftmodule"
+- "/Users/lb/Documents/Project/LearnVapor/.build/x86_64-apple-macosx10.10/debug/Console.swiftmodule"
+- "/Users/lb/Documents/Project/LearnVapor/.build/x86_64-apple-macosx10.10/debug/Core.swiftmodule"
+- "/Users/lb/Documents/Project/LearnVapor/.build/x86_64-apple-macosx10.10/debug/SQLite.swiftmodule"
+- "/Users/lb/Documents/Project/LearnVapor/.build/x86_64-apple-macosx10.10/debug/FluentSQLite.swiftmodule"
+- "/Users/lb/Documents/Project/LearnVapor/.build/x86_64-apple-macosx10.10/debug/Logging.swiftmodule"
+- "/Users/lb/Documents/Project/LearnVapor/.build/x86_64-apple-macosx10.10/debug/Debugging.swiftmodule"
+- "/Users/lb/Documents/Project/LearnVapor/.build/x86_64-apple-macosx10.10/debug/Routing.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.swiftmodule"
+- "/Users/lb/Documents/Project/LearnVapor/.build/x86_64-apple-macosx10.10/debug/COperatingSystem.swiftmodule"
+- "/Users/lb/Documents/Project/LearnVapor/.build/x86_64-apple-macosx10.10/debug/Random.swiftmodule"
+- "/Users/lb/Documents/Project/LearnVapor/.build/x86_64-apple-macosx10.10/debug/URLEncodedForm.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Darwin.swiftmodule"
+- "/Users/lb/Documents/Project/LearnVapor/.build/x86_64-apple-macosx10.10/debug/Validation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreFoundation.swiftmodule"
+- "/Users/lb/Documents/Project/LearnVapor/.build/x86_64-apple-macosx10.10/debug/Crypto.swiftmodule"
+- "/Users/lb/Documents/Project/LearnVapor/.build/x86_64-apple-macosx10.10/debug/Vapor.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreGraphics.swiftmodule"
+- "/Users/lb/Documents/Project/LearnVapor/.build/x86_64-apple-macosx10.10/debug/NIOConcurrencyHelpers.swiftmodule"
+- "/Users/lb/Documents/Project/LearnVapor/.build/x86_64-apple-macosx10.10/debug/Bits.swiftmodule"
+- "/Users/lb/Documents/Project/LearnVapor/.build/x86_64-apple-macosx10.10/debug/NIOFoundationCompat.swiftmodule"
+- "/Users/lb/Documents/Project/LearnVapor/.build/x86_64-apple-macosx10.10/debug/WebSocket.swiftmodule"
+- "/Users/lb/Documents/Project/LearnVapor/.build/x86_64-apple-macosx10.10/debug/NIOWebSocket.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/IOKit.swiftmodule"
+- "/Users/lb/Documents/Project/LearnVapor/.build/x86_64-apple-macosx10.10/debug/DatabaseKit.swiftmodule"
+- "/Users/lb/Documents/Project/LearnVapor/.build/x86_64-apple-macosx10.10/debug/TemplateKit.swiftmodule"
+- "/Users/lb/Documents/Project/LearnVapor/.build/x86_64-apple-macosx10.10/debug/Fluent.swiftmodule"
+- "/Users/lb/Documents/Project/LearnVapor/.build/x86_64-apple-macosx10.10/debug/Multipart.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/lb/Documents/Project/LearnVapor/.build/checkouts/swift-nio.git-8756902686293799568/Sources/CNIOSHA1/include/c_nio_sha1.h"
+- "/usr/local/Cellar/libressl/2.7.4/include/openssl/asn1.h"
+- "/usr/local/Cellar/libressl/2.7.4/include/openssl/tls1.h"
+- "/usr/local/Cellar/libressl/2.7.4/include/openssl/dtls1.h"
+- "/usr/local/Cellar/libressl/2.7.4/include/openssl/pkcs12.h"
+- "/usr/local/Cellar/libressl/2.7.4/include/openssl/ssl2.h"
+- "/usr/local/Cellar/libressl/2.7.4/include/openssl/pem2.h"
+- "/usr/local/Cellar/libressl/2.7.4/include/openssl/ssl23.h"
+- "/usr/local/Cellar/libressl/2.7.4/include/openssl/ssl3.h"
+- "/usr/local/Cellar/libressl/2.7.4/include/openssl/x509v3.h"
+- "/usr/local/Cellar/libressl/2.7.4/include/openssl/md5.h"
+- "/usr/local/Cellar/libressl/2.7.4/include/openssl/pkcs7.h"
+- "/usr/local/Cellar/libressl/2.7.4/include/openssl/x509.h"
+- "/usr/local/Cellar/libressl/2.7.4/include/openssl/sha.h"
+- "/usr/local/Cellar/libressl/2.7.4/include/openssl/dsa.h"
+- "/usr/local/Cellar/libressl/2.7.4/include/openssl/ecdsa.h"
+- "/usr/local/Cellar/libressl/2.7.4/include/openssl/rsa.h"
+- "/Users/lb/Documents/Project/LearnVapor/.build/checkouts/swift-nio.git-8756902686293799568/Sources/CNIOZlib/include/c_nio_zlib.h"
+- "/usr/local/Cellar/libressl/2.7.4/include/openssl/obj_mac.h"
+- "/usr/local/Cellar/libressl/2.7.4/include/openssl/hmac.h"
+- "/usr/local/Cellar/libressl/2.7.4/include/openssl/ec.h"
+- "/Users/lb/Documents/Project/LearnVapor/.build/checkouts/swift-nio.git-8756902686293799568/Sources/CNIOAtomics/include/cpp_magic.h"
+- "/usr/local/Cellar/libressl/2.7.4/include/openssl/rand.h"
+- "/usr/local/Cellar/libressl/2.7.4/include/openssl/conf.h"
+- "/usr/local/Cellar/libressl/2.7.4/include/openssl/opensslconf.h"
+- "/usr/local/Cellar/libressl/2.7.4/include/openssl/dh.h"
+- "/usr/local/Cellar/libressl/2.7.4/include/openssl/ecdh.h"
+- "/usr/local/Cellar/libressl/2.7.4/include/openssl/lhash.h"
+- "/usr/local/Cellar/libressl/2.7.4/include/openssl/stack.h"
+- "/usr/local/Cellar/libressl/2.7.4/include/openssl/safestack.h"
+- "/usr/local/Cellar/libressl/2.7.4/include/openssl/ssl.h"
+- "/Users/lb/Documents/Project/LearnVapor/.build/checkouts/swift-nio-ssl.git--4203122085816746094/Sources/CNIOOpenSSL/include/c_nio_openssl.h"
+- "/Users/lb/Documents/Project/LearnVapor/.build/checkouts/crypto.git--6549914863907898371/Sources/CCryptoOpenSSL/include/c_crypto_openssl.h"
+- "/usr/local/Cellar/libressl/2.7.4/include/openssl/pem.h"
+- "/usr/local/Cellar/libressl/2.7.4/include/openssl/bn.h"
+- "/Users/lb/Documents/Project/LearnVapor/.build/checkouts/swift-nio.git-8756902686293799568/Sources/CNIODarwin/include/c_nio_darwin.h"
+- "/usr/local/Cellar/libressl/2.7.4/include/openssl/bio.h"
+- "/usr/local/Cellar/libressl/2.7.4/include/openssl/crypto.h"
+- "/usr/local/Cellar/libressl/2.7.4/include/openssl/srtp.h"
+- "/usr/local/Cellar/libressl/2.7.4/include/openssl/evp.h"
+- "/usr/local/Cellar/libressl/2.7.4/include/openssl/ossl_typ.h"
+- "/usr/local/Cellar/libressl/2.7.4/include/openssl/buffer.h"
+- "/Users/lb/Documents/Project/LearnVapor/.build/checkouts/swift-nio.git-8756902686293799568/Sources/CNIOHTTPParser/include/c_nio_http_parser.h"
+- "/usr/local/Cellar/libressl/2.7.4/include/openssl/err.h"
+- "/Users/lb/Documents/Project/LearnVapor/.build/checkouts/swift-nio.git-8756902686293799568/Sources/CNIOAtomics/include/c-atomics.h"
+- "/usr/local/Cellar/libressl/2.7.4/include/openssl/opensslfeatures.h"
+- "/usr/local/Cellar/libressl/2.7.4/include/openssl/objects.h"
+- "/usr/local/Cellar/libressl/2.7.4/include/openssl/opensslv.h"
+- "/Users/lb/Documents/Project/LearnVapor/.build/checkouts/swift-nio.git-8756902686293799568/Sources/CNIOLinux/include/c_nio_linux.h"
+- "/usr/local/Cellar/libressl/2.7.4/include/openssl/x509_vfy.h"
+- "/Users/lb/Documents/Project/LearnVapor/.build/checkouts/swift-nio-zlib-support.git--4783613459776704231/module.modulemap"
+- "/Users/lb/Documents/Project/LearnVapor/.build/checkouts/swift-nio-ssl-support.git--7591788603050871532/module.modulemap"
+- "/Users/lb/Documents/Project/LearnVapor/.build/x86_64-apple-macosx10.10/debug/CNIOSHA1.build/module.modulemap"
+- "/Users/lb/Documents/Project/LearnVapor/.build/x86_64-apple-macosx10.10/debug/CNIOOpenSSL.build/module.modulemap"
+- "/Users/lb/Documents/Project/LearnVapor/.build/x86_64-apple-macosx10.10/debug/CCryptoOpenSSL.build/module.modulemap"
+- "/Users/lb/Documents/Project/LearnVapor/.build/x86_64-apple-macosx10.10/debug/CNIOZlib.build/module.modulemap"
+- "/Users/lb/Documents/Project/LearnVapor/.build/x86_64-apple-macosx10.10/debug/CNIODarwin.build/module.modulemap"
+- "/Users/lb/Documents/Project/LearnVapor/.build/x86_64-apple-macosx10.10/debug/CNIOHTTPParser.build/module.modulemap"
+- "/Users/lb/Documents/Project/LearnVapor/.build/x86_64-apple-macosx10.10/debug/CNIOAtomics.build/module.modulemap"
+- "/Users/lb/Documents/Project/LearnVapor/.build/x86_64-apple-macosx10.10/debug/CNIOLinux.build/module.modulemap"
+- "/Users/lb/Documents/Project/LearnVapor/.build/checkouts/crypto.git--6549914863907898371/Sources/CBase32/include/module.modulemap"
+- "/Users/lb/Documents/Project/LearnVapor/.build/checkouts/crypto.git--6549914863907898371/Sources/CBcrypt/include/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/ApplicationServices.framework/Headers/ApplicationServices.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "7be3e5e1518f70745dfc84b5f77f157f"

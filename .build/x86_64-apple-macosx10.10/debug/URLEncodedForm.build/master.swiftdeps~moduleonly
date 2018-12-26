@@ -1,0 +1,12 @@
+version: "Apple Swift version 4.2 (swiftlang-1000.11.37.1 clang-1000.11.45.1)"
+options: "31db0e70fcf886c80b91efdae2d7749b"
+build_time: [1539405390, 900237000]
+inputs:
+  "/Users/lb/Documents/Project/LearnVapor/.build/checkouts/url-encoded-form.git--7962792991753699495/Sources/URLEncodedForm/Codable/URLEncodedFormDecoder.swift": [1539358994, 0]
+  "/Users/lb/Documents/Project/LearnVapor/.build/checkouts/url-encoded-form.git--7962792991753699495/Sources/URLEncodedForm/Codable/URLEncodedFormEncoder.swift": [1539358994, 0]
+  "/Users/lb/Documents/Project/LearnVapor/.build/checkouts/url-encoded-form.git--7962792991753699495/Sources/URLEncodedForm/Data/URLEncodedFormData.swift": [1539358994, 0]
+  "/Users/lb/Documents/Project/LearnVapor/.build/checkouts/url-encoded-form.git--7962792991753699495/Sources/URLEncodedForm/Data/URLEncodedFormDataConvertible.swift": [1539358994, 0]
+  "/Users/lb/Documents/Project/LearnVapor/.build/checkouts/url-encoded-form.git--7962792991753699495/Sources/URLEncodedForm/Data/URLEncodedFormParser.swift": [1539358994, 0]
+  "/Users/lb/Documents/Project/LearnVapor/.build/checkouts/url-encoded-form.git--7962792991753699495/Sources/URLEncodedForm/Data/URLEncodedFormSerializer.swift": [1539358994, 0]
+  "/Users/lb/Documents/Project/LearnVapor/.build/checkouts/url-encoded-form.git--7962792991753699495/Sources/URLEncodedForm/Utilities/Exports.swift": [1539358994, 0]
+  "/Users/lb/Documents/Project/LearnVapor/.build/checkouts/url-encoded-form.git--7962792991753699495/Sources/URLEncodedForm/Utilities/URLEncodedFormError.swift": [1539358994, 0]

@@ -1,0 +1,22 @@
+version: "Apple Swift version 4.2 (swiftlang-1000.11.37.1 clang-1000.11.45.1)"
+options: "2aa4656598def5970cdec40c044aac64"
+build_time: [1539405390, 887566000]
+inputs:
+  "/Users/lb/Documents/Project/LearnVapor/.build/checkouts/validation.git--4420399646601355644/Sources/Validation/Exports.swift": [1539358997, 0]
+  "/Users/lb/Documents/Project/LearnVapor/.build/checkouts/validation.git--4420399646601355644/Sources/Validation/Validatable.swift": [1539358997, 0]
+  "/Users/lb/Documents/Project/LearnVapor/.build/checkouts/validation.git--4420399646601355644/Sources/Validation/ValidationError.swift": [1539358997, 0]
+  "/Users/lb/Documents/Project/LearnVapor/.build/checkouts/validation.git--4420399646601355644/Sources/Validation/Validations.swift": [1539358997, 0]
+  "/Users/lb/Documents/Project/LearnVapor/.build/checkouts/validation.git--4420399646601355644/Sources/Validation/Validator.swift": [1539358997, 0]
+  "/Users/lb/Documents/Project/LearnVapor/.build/checkouts/validation.git--4420399646601355644/Sources/Validation/ValidatorType.swift": [1539358997, 0]
+  "/Users/lb/Documents/Project/LearnVapor/.build/checkouts/validation.git--4420399646601355644/Sources/Validation/Validators/AndValidator.swift": [1539358997, 0]
+  "/Users/lb/Documents/Project/LearnVapor/.build/checkouts/validation.git--4420399646601355644/Sources/Validation/Validators/CharacterSetValidator.swift": [1539358997, 0]
+  "/Users/lb/Documents/Project/LearnVapor/.build/checkouts/validation.git--4420399646601355644/Sources/Validation/Validators/CountValidator.swift": [1539358997, 0]
+  "/Users/lb/Documents/Project/LearnVapor/.build/checkouts/validation.git--4420399646601355644/Sources/Validation/Validators/EmailValidator.swift": [1539358997, 0]
+  "/Users/lb/Documents/Project/LearnVapor/.build/checkouts/validation.git--4420399646601355644/Sources/Validation/Validators/EmptyValidator.swift": [1539358997, 0]
+  "/Users/lb/Documents/Project/LearnVapor/.build/checkouts/validation.git--4420399646601355644/Sources/Validation/Validators/InValidator.swift": [1539358997, 0]
+  "/Users/lb/Documents/Project/LearnVapor/.build/checkouts/validation.git--4420399646601355644/Sources/Validation/Validators/NilIgnoringValidator.swift": [1539358997, 0]
+  "/Users/lb/Documents/Project/LearnVapor/.build/checkouts/validation.git--4420399646601355644/Sources/Validation/Validators/NilValidator.swift": [1539358997, 0]
+  "/Users/lb/Documents/Project/LearnVapor/.build/checkouts/validation.git--4420399646601355644/Sources/Validation/Validators/NotValidator.swift": [1539358997, 0]
+  "/Users/lb/Documents/Project/LearnVapor/.build/checkouts/validation.git--4420399646601355644/Sources/Validation/Validators/OrValidator.swift": [1539358997, 0]
+  "/Users/lb/Documents/Project/LearnVapor/.build/checkouts/validation.git--4420399646601355644/Sources/Validation/Validators/RangeValidator.swift": [1539358997, 0]
+  "/Users/lb/Documents/Project/LearnVapor/.build/checkouts/validation.git--4420399646601355644/Sources/Validation/Validators/URLValidator.swift": [1539358997, 0]
